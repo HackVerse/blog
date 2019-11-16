@@ -14,3 +14,11 @@ getting-started:
   name: getting-started
   description: False
   cover: False
+hackverse:
+  name: hackverse
+  description: False
+  cover: False
+hackathons:
+  name: hackathons
+  description: False
+  cover: False

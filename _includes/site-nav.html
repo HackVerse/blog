@@ -13,11 +13,20 @@
     </div>
     <div class="site-nav-right">
         <div class="social-links">
+            {% if site.instagram %}
+                <a class="social-link social-link-tw" href="https://instagram.com/{{ site.instagram }}" target="_blank" rel="noopener">{% include instagram.html %}</a>
+            {% endif %}
             {% if site.facebook %}
                 <a class="social-link social-link-fb" href="https://facebook.com/{{ site.facebook }}" target="_blank" rel="noopener">{% include facebook.html %}</a>
             {% endif %}
             {% if site.twitter %}
                 <a class="social-link social-link-tw" href="https://twitter.com/{{ site.twitter }}" target="_blank" rel="noopener">{% include twitter.html %}</a>
+            {% endif %}
+            {% if site.linkedin %}
+                <a class="social-link social-link-fb" href="https://linkedin.com/company/{{ site.linkedin }}" target="_blank" rel="noopener">{% include linkedin.html %}</a>
+            {% endif %}
+            {% if site.telegram %}
+                <a class="social-link social-link-fb" href="https://t.me/{{ site.telegram }}" target="_blank" rel="noopener">{% include telegram.html %}</a>
             {% endif %}
         </div>
         {% if site.subscribers %}
