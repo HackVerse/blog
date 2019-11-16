@@ -74,3 +74,14 @@ martin:
   facebook: False
   twitter: False
   cover: False
+mishal:
+  username: mishal23
+  name: Mishal Shah
+  location: India
+  url_full: False
+  url: False
+  bio: Convenor, HackVerse '20
+  picture: assets/images/martin.jpg
+  facebook: False
+  twitter: False
+  cover: False
