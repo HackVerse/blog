@@ -16,7 +16,7 @@ With the latest update, multiple author blogs are now supported out of the box.
 ### Compiling 
 
 ```
-git clone https://hackverse/blog
+git clone https://github.com/hackverse/blog/
 cd blog/
 bundle exec jekyll build
 bundle exec jekyll serve
