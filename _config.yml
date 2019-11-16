@@ -10,8 +10,8 @@ baseurl: /blog/
 
 # Website info
 title: HackVerse
-description: HackVerse - 24 Hour Nation-Wide Hackathon at NITK, Surathkal as a part of the Diamond Jubilee Celebrations
-cover: assets/images/cover.jpg
+description: Hack It, Till You Crack it!
+cover: #assets/images/cover.jpg
 logo: assets/images/textlogo.png
 logo_dark: assets/images/textlogo.png
 favicon: assets/images/LOGO.png
