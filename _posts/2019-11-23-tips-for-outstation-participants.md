@@ -55,7 +55,7 @@ If you plan to travel to NITK, Surathkal by a flight, the nearest airport to NIT
 
 We hope this helps you figure out the logistics of getting to NITK, Surathkal. If you have any further doubts, please join our Telegram Group, one of the organizers will help you out. Link: [https://t.me/hackverse](https://t.me/hackverse)
 
-We can't wait to meet you and see what you create!
+We can't wait to meet you at the hacking arena and see what you create! 
 
 <img src="./assets/images/nitk/lhcc.jpg" alt="LHC-C NITK Surathkal" height="450px">
 
