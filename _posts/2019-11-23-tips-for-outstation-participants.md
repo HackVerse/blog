@@ -62,6 +62,10 @@ We can't wait to meet you at the hacking arena and see what you create!
 
 <img src="./assets/images/nitk/lhcc.jpg" alt="LHC-C NITK Surathkal">
 
+Checkout some amazing clicks of our campus:- 
+
+{% include carousel.html height="50" unit="%" duration="2" %}
+
 
 #### Credits
 
