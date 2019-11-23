@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/images/nitk/aerial-nitk-cover.jpg
 navigation: True
-title: Tips for outstation Participants
+title: Tips for Outstation Participants
 date: 2019-11-23 1:00:00
 tags: [hackverse]
 class: post-template
@@ -45,7 +45,7 @@ If you plan to travel to NITK, Surathkal by train, following are the primary rai
  - Mangalore Central (Station Code: MAQ) 
  - Surathkal (Station Code: SL)
 
-There are frequent local bus services from these stations to reach NITK, Surathkal which provide services at a very afforadable cost - less than Rs. 30. Participants are suggested to take a local bus from the railway station.
+There are frequent local bus services from these stations to reach NITK, Surathkal which provide services at a very afforadable cost - less than Rs. 30. Participants are suggested to take a local bus from the railway station. Local Bus services start as early as 6 am in the morning, and are available at every 5-10 mins interval.
 
 ### Travelling through Flight
 
