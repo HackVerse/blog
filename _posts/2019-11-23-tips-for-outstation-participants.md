@@ -21,7 +21,10 @@ Before we proceed ahead, take a look at the beautiful campus you're going to vis
 
 NITKians proudly flaunt about being the only college in India to have a private beach, and it's your chance to spend a weekend coding, and working on an idea nearby the beach.
 
-<img src="./assets/images/nitk/collage-beach.jpg" alt="NITK, Surathkal Beach" height="500px" />
+<img src="./assets/images/nitk/aerial-beach.jpg" alt="NITK, Surathkal Beach" height="500px" />
+
+<img src="./assets/images/nitk/aerial-kite-fest.jpg" alt="NITK, Surathkal Beach" height="500px" />
+
 
 ## Accomodation
 
@@ -31,7 +34,7 @@ All the participants coming from outside will be provided accommodation at NITK,
 
 NITK, Surathkal is a lush green campus on the shores of the Arabian sea, nourished and blessed by the monsoon showers.
 
-<img src="./assets/images/nitk/aerial-nitk.jpg" alt="Green Aerial NITK Surathkal" height="500px">
+<img src="./assets/images/nitk/aerial-nitk.jpg" alt="Green Aerial NITK Surathkal">
 
 There are many options to travel to the campus.
 
@@ -57,7 +60,7 @@ We hope this helps you figure out the logistics of getting to NITK, Surathkal. I
 
 We can't wait to meet you at the hacking arena and see what you create! 
 
-<img src="./assets/images/nitk/lhcc.jpg" alt="LHC-C NITK Surathkal" height="450px">
+<img src="./assets/images/nitk/lhcc.jpg" alt="LHC-C NITK Surathkal">
 
 
 #### Credits
