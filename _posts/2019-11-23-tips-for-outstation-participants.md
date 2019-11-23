@@ -11,11 +11,11 @@ subclass: 'post hackverse'
 author: shravan
 ---
 
-Congratulations on getting selected for HackVerse '20. 
+Congratulations on getting selected for HackVerse '20! 
 
 We are super excited to host you at our campus, NITK, Surathkal and we look forward to meeting you and see what you create!
 
-This blog is aimed to give you a few tips and suggestions so that your journey to HackVerse, NITK, Surathkal and stay here will be as hassle free as possible. 
+This blog is aimed to give you a few tips and suggestions so that your journey to HackVerse, NITK, Surathkal and stay here is as hassle free as possible. 
 
 Before we proceed ahead, take a look at the beautiful campus you're going to visit.
 
@@ -28,7 +28,7 @@ NITKians proudly flaunt about being the only college in India to have a private 
 
 ## Accomodation
 
-All the participants coming from outside will be provided accommodation at NITK, Surathkal for all the 3 days - 24th to 26th of January. Matresses will be provided for a comfortable sleep.
+All outstation participants will be provided accommodation at NITK, Surathkal for all the 3 days - 24th to 26th of January. Matresses will be provided for a comfortable sleep.
 
 ## Reaching NITK
 
@@ -38,7 +38,7 @@ NITK, Surathkal is a lush green campus on the shores of the Arabian sea, nourish
 
 There are many options to travel to the campus.
 
-### Travelling through train
+### Travelling Through Train
 
 If you plan to travel to NITK, Surathkal by train, following are the primary railway stations nearby the campus.
  - Mangalore Junction (Station Code: MAJN)
@@ -47,11 +47,11 @@ If you plan to travel to NITK, Surathkal by train, following are the primary rai
 
 There are frequent local bus services from these stations to reach NITK, Surathkal which provide services at a very afforadable cost - less than Rs. 30. Participants are suggested to take a local bus from the railway station. Local Bus services start as early as 6 am in the morning, and are available at every 5-10 mins interval.
 
-### Travelling through Flight
+### Travelling Through Flight
 
-If you plan to travel to NITK, Surathkal by a flight, the nearest airport to NITK, Surathkal is the Mangalore Airport at a distance of around 20 kms, taxi services are available from the airport to reach NITK, Surathkal. They usually take 30 mins maximum to reach the campus.
+If you plan to travel to NITK, Surathkal by a flight, the nearest airport to NITK, Surathkal is the Mangalore Airport at a distance of around 20 kms. Taxi services are available from the airport to reach NITK, Surathkal. They usually take 30 mins maximum to reach the campus.
 
-### Travelling through Bus
+### Travelling Through Bus
 
 - For participants in and around Mangalore, Udupi or Manipal, there are plenty of local buses which ply very frequently from the main gate. You can reach NITK very easily using these services.
 - For participants from Bangalore and Mysore, there a plenty of bus services available (SRS, Orange, VRL, Durgamba, Pragathi etc). These buses generally stop right in front of NITK.
