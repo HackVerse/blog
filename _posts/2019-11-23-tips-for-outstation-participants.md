@@ -19,7 +19,7 @@ This blog is aimed to give you a few tips and suggestions so that your journey t
 
 Before we proceed ahead, take a look at the beautiful campus you're going to visit.
 
-NITKians proudly flaunt about being the only college in India to have a private beach, and it's your chance to spend a weekend coding, and working on an idea nearby the beach.
+NITKians proudly flaunt about being the only college in India to have a private beach, and it's your chance to spend a weekend coding, and working on an idea nearby the beach and enjoy the other programs planned.
 
 <img src="./assets/images/nitk/aerial-beach.jpg" alt="NITK, Surathkal Beach" height="100%" />
 
