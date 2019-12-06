@@ -4,7 +4,7 @@ current: post
 cover:  assets/images/cover.jpg
 navigation: True
 title: Why register for HackVerse
-date: 2019-12-06 13:00:00
+date: 2019-12-06 12:00:00
 tags: [hackverse]
 class: post-template
 subclass: 'post hackverse'
