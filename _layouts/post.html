@@ -60,11 +60,11 @@ into the {body} of the default.hbs template -->
                     {% include subscribe-form.html placeholder="youremail@example.com" %}
                 </section>
             {% endif %}
-
+            {% for author in page.author %}
             <footer class="post-full-footer">
                 <!-- Everything inside the #author tags pulls data from the author -->
                 <!-- #author-->
-                {% for author in page.author %}
+                
                     <section class="author-card">
                         {% if site.data.authors[author].picture %}
                             <img class="author-profile-image" src="{{ site.baseurl }}{{ site.data.authors[author].picture }}" alt="{{ author }}" />
@@ -81,9 +81,10 @@ into the {body} of the default.hbs template -->
                     <div class="post-full-footer-right">
                         <a class="author-card-button" href="{{ site.baseurl }}author/{{ author }}">Read More</a>
                     </div>
-                {% endfor %}
+                
                 <!-- /author  -->
             </footer>
+            {% endfor %}
 
             <!-- If you use Disqus comments, just uncomment this block.
             The only thing you need to change is "test-apkdzgmqhj" - which

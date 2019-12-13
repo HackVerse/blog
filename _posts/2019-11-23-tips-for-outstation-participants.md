@@ -8,7 +8,9 @@ date: 2019-11-23 1:00:00
 tags: [hackverse]
 class: post-template
 subclass: 'post hackverse'
-author: shravan
+author: 
+- shravan
+- mishal
 ---
 
 Congratulations on getting selected for HackVerse '20! 

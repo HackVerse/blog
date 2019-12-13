@@ -8,7 +8,8 @@ date: 2019-12-13 1:00:00
 tags: [hackverse]
 class: post-template
 subclass: 'post hackverse'
-author: shravan
+author: 
+- shravan
 ---
 
 Learn more about why you should attend hackathons and what makes HackVerse special!
@@ -64,7 +65,7 @@ Hackathons are a great place to meet like-minded people and exchange ideas, insi
 
 ### Prizes
 
-After all of this, Prizes are the last thing one would look for. Prizes although may seem like great motivators but the are ineffective at building communities and creating long-term enegagement. If a hackathon prize is too large, people who hack because of passion will likely be turned off. Focusing too much on prizes can make those who are there out of passion or to learn something new feel like their experience is not valued by their peers or the event organizers. 
+After all of this, Prizes are the last thing one would look for. Prizes although may seem like great motivators but they are ineffective at building communities and creating long-term enegagement. If a hackathon prize is too large, people who hack because of passion will likely be turned off. Focusing too much on prizes can make those who are there out of passion or to learn something new feel like their experience is not valued by their peers or the event organizers. 
 
 We assure there are huge prizes in terms of cash and the swags for the winners and everyone who attends, but we don't recommend attending HackVerse or any other hackathon solely for prizes. 
 
