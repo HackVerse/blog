@@ -54,7 +54,7 @@ Be it the adrenaline rush during the last 15 minutes of building, meeting like-m
 
 ### Boost your Resume
 
-Most companies and startups prefer enthusiastic students who have built innovative solutions using the latest technologies to solve real-world problems. The prototype you exhibit here, could potentially boost your resume and enable you to stand apart from the crowd. Who knows you'll build the next product like "GroupMe", Maybe you might get hired?
+Most companies and startups prefer enthusiastic students who have built innovative solutions using the latest technologies to solve real-world problems. The prototype you exhibit here, could potentially boost your resume and enable you to stand apart from the crowd. Who knows what your idea can become? Maybe you'll build the next "GroupMe", Maybe you might get hired?
 
 ### Network, Network, and Network
 
