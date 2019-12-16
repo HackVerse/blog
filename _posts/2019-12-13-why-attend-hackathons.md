@@ -61,7 +61,7 @@ Most companies and startups prefer enthusiastic students who have built innovati
 
 Hackathons are a great place to meet like-minded people and exchange ideas, insights and collaborate. HackVerse has introduced a trademark event called **Meet-and-Greet**. This session will be completely dedicated to meeting other participants and mentors. You can meet new people, make new friends, get to listen to different perspectives, clarify your doubts and get guidance from mentors. In short, this session is aimed to help you build a strong network with people across all regions, fields, and experience, which we believe will help you in the long run, even after the hackathon is over.
 
-<img src="./assets/images/why-attend/networking.jpg" alt="Networking" height="100%" />
+<img src="./assets/images/why-attend/networking.png" alt="Networking" height="70%" width="70%" />
 
 ### Prizes
 
