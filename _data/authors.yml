@@ -34,3 +34,42 @@ shravan:
   linkedin: shravanshenoy
   github: shravankshenoy
   cover: False
+rahul:
+  username: rahul
+  name: K Rahul Reddy
+  location: Mangalore
+  url_full: https://krahulreddy.github.io
+  url: krahulreddy.github.io
+  bio: Organizing HackVerse '20 @ NITK, Surathkal under the Diamond Jubilee Celebrations.
+  picture: assets/images/rahul.jpeg
+  facebook: 100004094116322
+  twitter: redrahulno1
+  linkedin: rahul-reddy-181522161
+  github: krahulreddy
+  cover: False
+vybhav:
+  username: vybhav
+  name: Vybhav Pai
+  location: Mangalore
+  url_full: 
+  url: 
+  bio: Organizing HackVerse '20 @ NITK, Surathkal under the Diamond Jubilee Celebrations.
+  picture: assets/images/vybhav.jpg
+  facebook: 
+  twitter: 
+  linkedin: 
+  github: 
+  cover: False
+shubham:
+  username: shubham
+  name: Shubham Agrawal
+  location: Mangalore
+  url_full: 
+  url: 
+  bio: Organizing HackVerse '20 @ NITK, Surathkal under the Diamond Jubilee Celebrations.
+  picture: assets/images/shubham.jpg
+  facebook: 
+  twitter: 
+  linkedin: 
+  github: 
+  cover: False

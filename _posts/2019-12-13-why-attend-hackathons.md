@@ -27,7 +27,7 @@ Hackathons are awesome places to build solutions to real-world problems and expr
 
 Did you know that "GroupMe" a group messaging app acquired by Skype for over $50 million was built during a hackathon? Or the Facebook "Like" button & Facebook chat being built in an internal company hackathon?
 
-<img src="./assets/images/why-attend/groupme-fb.png" alt="GroupMe & Facebook" height="100%" />
+<img src="./assets/images/why-attend/groupme-fb.png" alt="GroupMe & Facebook"/>
 
 There have been countless similar examples that show that hackathons are serious events that can potentially have a long-lasting impact on our day to day lives. And we expect each and everyone coming here to aim for a similar impact, nothing less!
 
