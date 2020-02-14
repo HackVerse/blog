@@ -38,11 +38,7 @@ Devdutt wakes me up at Suratkal. Apparently we reached 30 minutes early. Much to
 
 We took two autos and reached the college by 5.45 AM. Nishant our point of contact was already at the front gate and in good spirits. We were escorted to our hostel where we freshened up and got some sleep. Around 8.30 AM we headed off to the venue — Lecture Complex Hall.
 
-<img src="./assets/images/under-coding-hood/food.jpeg" alt="Morning Food"/>
-
 We got to meet the other folks from my college who also came for the hackathon. After breakfast, we chilled for a while until the opening ceremony.
-
-{% include image.html url="./assets/images/under-coding-hood/mec.jpeg" description="Top left, clockwise: Pranav (CS2B), Aditya (CS2B), Nikita (CS2B), Ameen (CS4B), Devdutt (CS6A), myself (CS8A), Razeen (CS2B), Afnan (CS4A), Rindish (CS4A), Jagath (CS2B), Varun (CS4B), Sneha (CS6A), Aswin M (CS6A)" %}
 
 <hr>
 
@@ -118,8 +114,6 @@ After dinner, we took a train to Manglore and then waited till 3 AM for the trai
 
 <img src="./assets/images/under-coding-hood/station.JPG" alt="Station"/>
 <img src="./assets/images/under-coding-hood/judging.jpeg" alt="Judging"/>
-
-I am trying to upload more pictures but browser keeps crashing. This will be it all for now. Thanks for reading. Hope Cirgle reaches your fingertips in the time to come.
 
 _Originally published at [https://medium.com/@joelvzach/under-the-coding-hood-hackverse-2020-aab616200a06](https://medium.com/@joelvzach/under-the-coding-hood-hackverse-2020-aab616200a06) on February 2, 2020_
 
