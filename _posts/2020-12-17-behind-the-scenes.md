@@ -35,14 +35,17 @@ _Namrata Ladda_: "It took almost two semesters to plan. Going through different 
 
 _Sai Sushil_: "The planning started at the college level initially. When we pitched it to the Dean (Students' Welfare), his suggestion was to put together a nationwide hackathon."
 
-_Mishal Shah_: "The planning process started in June 2019. We had a lot of meetings and discussions. It was complete synergy, with all the team members pitching in with inventive ideas and suggestions. We had attended various hackathons before and had a brief idea of what to do. We studied how some of the best hackathons in the world were organized and tried to incorporate those ideas in HackVerse. Our main focus was on hacker experience!"_
+_Mishal Shah_: "The planning process started in June 2019. We had a lot of meetings and discussions. It was complete synergy, with all the team members pitching in with inventive ideas and suggestions. We had attended various hackathons before and had a brief idea of what to do. We studied how some of the best hackathons in the world were organized and tried to incorporate those ideas in HackVerse. Our main focus was on hacker experience!"
 
 ## Expectations and hopes from HackVerse’20?
 
 _Polkampally Keerthana_: "We wanted HackVerse’20 to be phenomenal with a huge turnout. We especially wanted participants to have a good time and learn new things."
 
 _Mishal Shah_: "Hackers coming to NITK and having a good time was my dream. I was hoping that they would network with other hackers and organizers, continue working on their idea after the hackathon and learn new and fascinating things. We wished to empower hackers through talks, networking, or building."
-hackathonshow a team of students had organised a nationwide hackathon."
+
+## The moment you realized that what you had built was coming to fruition…?
+
+_Polkampally Keerthana_: "The morning when participants started arriving for registration. It felt surreal when I thought about how a team of students had organised a nationwide hackathon."
 
 _Shreyas Shankar_: "The moment we got to the mark we expected in sponsorship and became the hackathon with the highest number of registrations in India. I felt immense pride."
 
@@ -68,7 +71,7 @@ _Mehnaz Yunus_: "Working with a great team and successfully pulling off an event
 
 _Namrata Ladda_: "Interacting with the participants, guests, and speakers were the best part."
 
-_Mishal Shah_: "The mini-gaming arena. A lot of hackers loved it, There was always someone or the other playing there, and that made it worth all the effort we put in it."
+_Mishal Shah_: "The mini-gaming arena. A lot of hackers loved it, there was always someone or the other playing there, and that made it worth all the effort we put in it."
 
 _Adarsh Malapaka_: "Being able to connect with different companies, participants, and other professionals during the event."
 
@@ -82,9 +85,11 @@ _Adarsh Malapaka_: "I believe that HackVerse’20 was a success because we made 
 
 _Polkampally Keerthana_: "Teamwork, co-operation, delegating tasks, taking up responsibility, working hard, and not giving up at any point."
 
+## What advice would you give to a student applying for HackVerse?
+
 _Akash_: "Hackathons are an excellent opportunity to meet brilliant and tech-savvy people from all walks of life; build your profile as a hacker, and create something extraordinary that will improve lives. Don't miss out on this opportunity."
 
-_Shreyas Shankar_: "My advice would be to have a good number of open source contributions, high-quality and legitimate projects, well-defined Readme's on Github, previous hackathon experiences and a solid, innovative idea which appeals to the reviewer."
+_Shreyas Shankar_: "My advice would be to have a good number of open source contributions, high-quality and legitimate projects, a well-defined Readme on Github, previous hackathon experiences and a solid, innovative idea which appeals to the reviewer."
 
 _Polkampally Keerthana_: "Be genuine with your resume and the questions asked during the application."
 
