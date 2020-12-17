@@ -33,7 +33,7 @@ _Shreyas Shankar_: "We wanted to start a college event on a national scale in th
 
 _Namrata Ladda_: "It took almost two semesters to plan. Going through different articles and experiences and taking references from other hackathons helped."
 
-_Sai Sushil_: "The planning started at the college level initially. When we pitched it to the Dean (Student Welfare), his suggestion was to put together a nationwide hackathon."
+_Sai Sushil_: "The planning started at the college level initially. When we pitched it to the Dean (Students' Welfare), his suggestion was to put together a nationwide hackathon."
 
 _Mishal Shah_: "The planning process started in June 2019. We had a lot of meetings and discussions. It was complete synergy, with all the team members pitching in with inventive ideas and suggestions. We had attended various hackathons before and had a brief idea of what to do. We studied how some of the best hackathons in the world were organized and tried to incorporate those ideas in HackVerse. Our main focus was on hacker experience!"_
 
@@ -80,11 +80,11 @@ _Sai Sushil_: "Support and recognition from all over India. And the fact that we
 
 _Adarsh Malapaka_: "I believe that HackVerse’20 was a success because we made no compromise on the technical side of the event, despite the inauguration ceremony and webinars eating into the hacking time. Secondly, we took good care of our participants with the SPoCs (Student Point of Contact) and the PR (Public Relations) team doing a fantastic job of being approachable, proactive and making the participants feel comfortable."
 
-_Polkampally Keerthanhackathonsyou give to a student applying for HackVerse?
+_Polkampally Keerthana_: "Teamwork, co-operation, delegating tasks, taking up responsibility, working hard, and not giving up at any point."
 
 _Akash_: "Hackathons are an excellent opportunity to meet brilliant and tech-savvy people from all walks of life; build your profile as a hacker, and create something extraordinary that will improve lives. Don't miss out on this opportunity."
 
-_Shreyas Shankar_: "My advice would be to have a good number of open source contributions, high-quality and legitimate projects, well-defined Readme's on Github, previous hackathon experience,s and a solid, innovative idea which appeals to the reviewer."
+_Shreyas Shankar_: "My advice would be to have a good number of open source contributions, high-quality and legitimate projects, well-defined Readme's on Github, previous hackathon experiences and a solid, innovative idea which appeals to the reviewer."
 
 _Polkampally Keerthana_: "Be genuine with your resume and the questions asked during the application."
 
@@ -98,7 +98,7 @@ _Sai Sushil_: "Push your boundaries, explore new possibilities and never stop ma
 
 _Pavan_: "Think thoroughly about the timeline of the event. Count even the smallest things."
 
-_Polkampally Keerthana_: "Do not panic. Just give it some time, come back and try again. And most importantly,organize your thoughts. Be clear about your goals."
+_Polkampally Keerthana_: "Do not panic. Just give it some time, come back and try again. And most importantly, organize your thoughts. Be clear about your goals."
 
 ---
 
