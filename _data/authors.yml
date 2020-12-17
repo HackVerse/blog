@@ -86,3 +86,42 @@ joel:
   linkedin: 
   github: 
   cover: False
+kriti:
+  username: kriti
+  name: Kriti Shukla
+  location: 
+  url_full: 
+  url: 
+  bio: Organized HackVerse '20 @ NITK, Surathkal under the Diamond Jubilee Celebrations.
+  picture: assets/images/kriti.jpeg
+  facebook: 
+  twitter: 
+  linkedin: kriti-shukla-258396182
+  github: 
+  cover: False
+shumbul:
+  username: shumbul
+  name: Shumbul Arifa
+  location: 
+  url_full: 
+  url: 
+  bio: Organized HackVerse '20 @ NITK, Surathkal under the Diamond Jubilee Celebrations.
+  picture: assets/images/shumbul.jpg
+  facebook: 
+  twitter: 
+  linkedin: shumbul-arifa-420511143
+  github: 
+  cover: False
+feyaz:
+  username: feyaz
+  name: Feyaz Baker
+  location: 
+  url_full: 
+  url: 
+  bio: Organized HackVerse '20 @ NITK, Surathkal under the Diamond Jubilee Celebrations.
+  picture: assets/images/feyaz.jpg
+  facebook: 
+  twitter: 
+  linkedin: feyaz-baker-520086175
+  github: z0marlin
+  cover: False
