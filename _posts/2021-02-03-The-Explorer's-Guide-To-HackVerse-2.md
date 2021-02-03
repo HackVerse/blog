@@ -13,8 +13,8 @@ author:
 ---
 
 > You have opened this message.
-| Your mission, should you choose to accept it, is to navigate the treacherous waters of the Arabian sea until you get to the HackVerse 2.0 submarine. Once you’re in there, you’re safe.
-| --- Message transmission terminated.
+Your mission, should you choose to accept it, is to navigate the treacherous waters of the Arabian sea until you get to the HackVerse 2.0 submarine. Once you’re in there, you’re safe.
+--- Message transmission terminated.
 
 
 The HackVerse 2.0 mascot, Cody will guide you on your journey.
@@ -23,8 +23,8 @@ Hello HackVerse aspirants!
 I’m Cody, your favourite underwater mascot and I’m here to help you out on your exciting underwater voyage, from the dock of registration to the starboard of results. Hold your breath...
 
 
-`` CHECKPOINT 1 : 
-# THE DOCK OF REGISTRATION ``
+`` CHECKPOINT 1 : ``
+# THE DOCK OF REGISTRATION 
 
 To participate, form a team of 2 to 3 people. 
 Can’t find teammates? Don’t worry, you can still register individually, and find other participants who have also individually registered later on to team up with.
