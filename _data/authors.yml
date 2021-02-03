@@ -123,5 +123,18 @@ feyaz:
   facebook: 
   twitter: 
   linkedin: feyaz-baker-520086175
-  github: z0marlin
+  github:
+  cover: False
+manas:
+  username: manas
+  name: Manas Trivedi
+  location:
+  url_full: 
+  url: 
+  bio: Member of the HackVerse 2.0 organizing team
+  picture: assets/images/manas.jpg
+  facebook: manasdtrivedi
+  twitter: 
+  linkedin: manas-trivedi
+  github: manasdtrivedi
   cover: False
