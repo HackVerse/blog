@@ -12,11 +12,9 @@ author:
 - kriti
 ---
 
-`` You have opened this message.
-
-Your mission, should you choose to accept it, is to navigate the treacherous waters of the Arabian sea until you get to the HackVerse 2.0 submarine. Once you’re in there, you’re safe.
-
---- Message transmission terminated. ``
+> You have opened this message.
+| Your mission, should you choose to accept it, is to navigate the treacherous waters of the Arabian sea until you get to the HackVerse 2.0 submarine. Once you’re in there, you’re safe.
+| --- Message transmission terminated.
 
 
 The HackVerse 2.0 mascot, Cody will guide you on your journey.
