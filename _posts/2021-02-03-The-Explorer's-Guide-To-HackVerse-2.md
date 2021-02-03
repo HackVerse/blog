@@ -12,9 +12,9 @@ author:
 - kriti
 ---
 
-> You have opened this message.
-Your mission, should you choose to accept it, is to navigate the treacherous waters of the Arabian sea until you get to the HackVerse 2.0 submarine. Once you’re in there, you’re safe.
---- Message transmission terminated.
+## `` You have opened this message. ``
+## `` Your mission, should you choose to accept it, is to navigate the treacherous waters of the Arabian sea until you get to the HackVerse 2.0 submarine. Once you’re in there, you’re safe. ``
+## `` --- Message transmission terminated. ``
 
 
 The HackVerse 2.0 mascot, Cody will guide you on your journey.
@@ -24,7 +24,7 @@ I’m Cody, your favourite underwater mascot and I’m here to help you out on y
 
 
 ### ``CHECKPOINT 1 : ``
-# THE DOCK OF REGISTRATION 
+# `` THE DOCK OF REGISTRATION ``
 
 To participate, form a team of 2 to 3 people. 
 Can’t find teammates? Don’t worry, you can still register individually, and find other participants who have also individually registered later on to team up with.
@@ -34,8 +34,8 @@ Each aspirant, whether a member of a team or not, has to fill in the application
 READY OR NOT? DIVE IN!
 
 
-`` CHECKPOINT 2 :
-# GET ACQUAINTED WITH A DEEP SEA CREATURE, THE APPLICATION FORM``
+### `` CHECKPOINT 2 : ``
+# `` GET ACQUAINTED WITH A DEEP SEA CREATURE, THE APPLICATION FORM ``
 
 Go to the [HackVerse Website](https://hackverse.nitk.ac.in/), and click the ‘Apply with Devfolio’ button.
 
@@ -52,8 +52,8 @@ There are two sections of the application, one occupying the top half of the pag
 <img src="./assets/images/explorers-guide-to-hackverse/1.png" alt="Application Step-1"/>
 
 
-`` CHECKPOINT 3 :
-# YOU’RE NEARING YOUR DESTINATION! FLAP YOUR FLIPPERS AND DIVE DEEPER... ``
+### `` CHECKPOINT 3 : ``
+# `` YOU’RE NEARING YOUR DESTINATION! FLAP YOUR FLIPPERS AND DIVE DEEPER... ``
 
 Once you’ve completed the first section, move to the second section - the one where you give us an idea of your hacking expertise. Upon filling the fields in this section, tick the checkboxes at the bottom of the page to complete the application.
 
@@ -70,12 +70,11 @@ At this point, there are two roads to choose from:
 
 AH! THERE IT IS! THE ELUSIVE SUBMARINE.
 
-`` 
-# --- You have successfully completed your mission. Wait for further instructions --- ``
+## `` --- You have successfully completed your mission. Wait for further instructions --- ``
 
 
-`` CHECKPOINT 4 :
-# ENJOY THE VIEW FROM THE STARBOARD! ``
+### `` CHECKPOINT 4 : ``
+# `` ENJOY THE VIEW FROM THE STARBOARD! ``
 
 The procedure of filtering applications will begin in a couple of weeks after the applications start rolling in. If you’re shortlisted for the hackathon, you will receive an email stating the good news from Devfolio.
 
@@ -83,16 +82,16 @@ A few days before the hackathon, a Discord server will be created, where you and
 
 
 
-`` CHECKPOINT 5 :
-# DATE: 27TH FEBRUARY 2021 ``
+### `` CHECKPOINT 5 : ``
+# `` DATE: 27TH FEBRUARY 2021 ``
 THE HACKVERSE 2.0 SUBMARINE IS LOADED AND READY TO EXPLORE THE UNSEEN... 
 
 You and your team will battle it out with the other teams in a race to create the most unique hack. Leaders in the industry will be among those present to judge each team’s submission. Submissions will be open to the community, for promoting the ideas of impartiality and fairness.
 
 
-`` CHECKPOINT 6 :
-# DATE: 28TH FEBRUARY 2021
-# ..AND THUS, THE LAST UNEXPLORED FRONTIER ON EARTH WAS CONQUERED. ``
+### `` CHECKPOINT 6 : ``
+# `` DATE: 28TH FEBRUARY 2021 ``
+# `` ..AND THUS, THE LAST UNEXPLORED FRONTIER ON EARTH WAS CONQUERED. ``
 
 Results will be announced a few days after the hackathon, followed by the Prize distribution ceremony and Hackerman felicitation.
 
