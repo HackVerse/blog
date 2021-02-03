@@ -23,8 +23,7 @@ Hello HackVerse aspirants!
 I’m Cody, your favourite underwater mascot and I’m here to help you out on your exciting underwater voyage, from the dock of registration to the starboard of results. Hold your breath...
 
 
-`` 
-### CHECKPOINT 1 : ``
+### ``CHECKPOINT 1 : ``
 # THE DOCK OF REGISTRATION 
 
 To participate, form a team of 2 to 3 people. 
