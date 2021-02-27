@@ -9,8 +9,8 @@ tags: [hackverse2.0]
 class: post-template
 subclass: 'post hackverse'
 author: 
-- niraj
 - manas
+- niraj
 ---
 
 The HackVerse 2.0 mascot, Cody will be briefing you on the tracks of HackVerse.
@@ -21,7 +21,7 @@ Greetings, skipper! Welcome to the starboard of the HackVerse submarine! Today w
 
 ## Track 1: Let’s Have Fun!
 
-Over the past few months, there’s been quite a bit of boredom among us. The forces of gaming and coding must combine and speedrun through creating the ultimate entertainment application. Only then shall humanity be freed from the dungeons of dullness, and released into the land of leisure and excitement...
+Over the past few months, there’s been quite a bit of boredom *among us*. The forces of gaming and coding must combine and speedrun through creating the ultimate entertainment application. Only then shall humanity be freed from the dungeons of dullness, and released into the land of leisure and excitement...
 
 For this track, create or modify a piece of software dedicated to entertainment and fun. This would include things like building a new video game, reviving abandonware games by adding new features, and creating any fun application containing audio and/or video.
 
@@ -61,13 +61,13 @@ For this track, you’d be building a cybersecurity solution for securing a comp
 
 ![hackerman meme](assets/images/hackverse-tracks/3.jpg)
 
-A possible solution in this domain would be to create a secure chat application. Sounds like unchartered territory? Check out this Make With HackVerse tutorial to build one!
+A possible solution in this domain would be to create a secure chat application. Sounds like unchartered territory? Check out [this](https://youtu.be/bQLutm4hS6w) Make With HackVerse tutorial to build one!
 
 ## Track 6: Let’s Innovate!
 
 The mother of humankind’s most important abilities, innovation has impacted essentially all domains of our life, whether it’s pulling off emergency all-nighters under an LED bulb, conserving fossil fuels by using electric cars, or viewing this blog post on a smartphone! 
 
-This track represents the boundlessness of the ocean. The grounds (or *cough* the seas) are open for innovation. Come up with any innovative hack that could make your everyday life easier.
+This track represents the boundlessness of the ocean. The grounds (or \**cough*\* the seas) are open for innovation. Come up with any innovative hack that could make your everyday life easier.
 
 ![bill gates meme](assets/images/hackverse-tracks/4.jpg)
 
