@@ -92,7 +92,7 @@ kriti:
   location: 
   url_full: 
   url: 
-  bio: Organized HackVerse '20 @ NITK, Surathkal under the Diamond Jubilee Celebrations.
+  bio: Member of the HackVerse 2.0 organizing team
   picture: assets/images/kriti.jpeg
   facebook: 
   twitter: 
@@ -137,4 +137,17 @@ manas:
   twitter: 
   linkedin: manas-trivedi
   github: manasdtrivedi
+  cover: False
+niraj:
+  username: niraj
+  name: Niraj Nandish
+  location:
+  url_full: 
+  url: 
+  bio: Member of the HackVerse 2.0 organizing team
+  picture: assets/images/niraj.jpg
+  facebook:
+  twitter: drsilverfox2311
+  linkedin: niraj-n-656761191
+  github: Nirajn2311
   cover: False
