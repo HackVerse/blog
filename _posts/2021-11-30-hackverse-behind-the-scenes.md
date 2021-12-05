@@ -3,7 +3,7 @@ layout: post
 current: post
 cover:  assets/images/behind-the-scenes/cover.jpeg
 navigation: True
-title:  HackVerse 2.0: Behind The Scenes
+title:  "HackVerse 2.0: Behind The Scenes"
 date: 2021-11-30
 tags: [hackverse2.0]
 class: post-template
@@ -11,7 +11,6 @@ subclass: 'post hackverse'
 author: 
 - Ramya Suresh Hegde
 ---
-
 
 With the second edition of HackVerse, HackVerse 2.0, done and dusted for the year, it's time to look back on the event and reminisce on all the good - and bad - experiences. 
 
@@ -60,3 +59,45 @@ Despite these numerous challenges, the team not only rose to the challenge, but 
 
 1. Plan well for the event timeline.
 2. Keep the work well distributed.
+3. Keep the entire team updated with what is happening.
+4. Make sure you take actions when needed. Do not hesitate to make bold moves.
+
+To the organizing team: Make sure you have a vision, a mission, and make sure that is what drives you. Without this, it will get difficult to manage and keep the team motivated."
+-K Rahul Reddy	
+
+"Commit to the Hackathon; if nothing else, you'll build something you're proud of with other people who are passionate about developing. Set tangible goals and make plans to achieve them. What do you want your hackathon to do? How do you achieve them? Look back at the previous editions. Seek inspiration and learn from their mistakes :) 
+
+Wishing you great success."
+-Madhumitha Nara 
+
+
+We've read through the guidance they have to give to the future teams, so how about we hop over to ask about what they felt were the best and worst parts of the event?
+
+"Best part - seeing the stuff you made at a lot of places and seen by so many people.Getting your designs materialized into merchandise which being worn and used by a lot of people. Meeting with people with a lot of different ideas while coming up with a even better ideas working as a team.
+Worst part - when sometimes things don't go right and you have to compromise on ideas and publish or manage with unfinished and unsatisfactory work which will be seen by everyone aswell."
+-Aditya Gourishetty	
+
+"Best part: We had a lot of online collaborations and sponsor incentive ideas. We were able to attract a good number of participants. The submission evaluation and fair judging policies
+Worst:We did not have the plan for the D-Day ready in advance. We should have worked on it from the start. Online publicity + outreach: we should have started applications earlier, did more publicity.
+- Closing on logistics: The goodies logistics should have been planned before the event even happened. Pushing it to post event delayed a lot of things and caused unexpected issues."
+-K Rahul Reddy
+
+"The best part is the amazing feedback we've received from our participants regarding the event. The only bad taste in my mouth is that we were unable to ship goodies, none of us anticipated the paperwork involved."
+-Madhumitha Nara 
+
+
+And finally, let's ask them if they have any last words for us!
+
+"Looking back, I think we should have worked a bit more on getting goodies for our participants and improve our branding."
+-Madhumitha Nara 
+
+"There is no real hierarchy within the heads, we all tried maintaining things that way. But some decisions have to come from some team heads. Make sure everyone is inclusive and included."
+-K Rahul Reddy
+
+"Just do it, apply meet new people and learn new stuff.	
+
+Start well in advance, work regularly the final day will be here before you know it."
+-Vybhav Pai
+
+"The unexpected second wave of Covid wrecked havoc on our plans by cutting off contact with our vendors, leading to an inability to procure our orders. Even after shop reopened, getting back on track was a task easier said than done. Picking up and continuing months-old conversations was even more troublesome than starting new negotiations. And to ensure the best experience for all participants, we needed to work out the finer details properly. We'd like to offer a thank you for your patience and understanding thus far, and please rest assured that we will deliver on our promises as soon as possible!"
+- Team HackVerse
