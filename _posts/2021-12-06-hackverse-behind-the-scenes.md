@@ -4,7 +4,7 @@ current: post
 cover:  assets/images/behind-the-scenes/cover.jpeg
 navigation: True
 title:  "HackVerse 2.0: Behind The Scenes"
-date: 2021-11-30
+date: 2021-12-06
 tags: [hackverse2.0]
 class: post-template
 subclass: 'post hackverse'
@@ -12,10 +12,11 @@ author:
 - Ramya Suresh Hegde
 ---
 
-With the second edition of HackVerse, HackVerse 2.0, done and dusted for the year, it's time to look back on the event and reminisce on all the good - and bad - experiences. 
+With the second edition of HackVerse, HackVerse 2.0, done and dusted for the year, it's time to look back on the event and reminisce on all the good and bad experiences. 
 
 
 ## Let's take a look at what the people involved in making it such a huge success have to say!
+
 
 "I had an amazing experience being a part of the organizing team, especially because of the amazing teammates (both batchmates and juniors). Everyone was supportive of each other and that's what really holds the team spirit high." -Nishant Kumar, Operations Head, SR Head
 
@@ -26,7 +27,7 @@ With the second edition of HackVerse, HackVerse 2.0, done and dusted for the yea
 -Madhumitha Nara, Lead Organizer
 
 
-The way HackVerse was pulled off is certainly something to be very proud of, but behind every success story lies a great deal of effort. Let's take a quick trip behind the scenes to peek at some of the challenges the team had to overcome.
+## The way HackVerse was pulled off is certainly something to be very proud of, but behind every success story lies a great deal of effort. Let's take a quick trip behind the scenes to peek at some of the challenges the team had to overcome.
 
 "We did bring up a lot of companies for the marketing team with the help of my contacts, but really couldn't turn them up into potential sponsors. The companies which we approached, were not ready for sponsoring as they were hit by the pandemic too."
 -Laksh Sadhwani, Student Relations Team	
@@ -47,7 +48,7 @@ The way HackVerse was pulled off is certainly something to be very proud of, but
 -Vybhav Pai, Tech team lead
 
 
-Despite these numerous challenges, the team not only rose to the challenge, but blew all expectations out of the water and exceeded them. And so, let's listen to the advice they have to offer. 
+## Despite these numerous challenges, the team not only rose to the challenge, but blew all expectations out of the water and exceeded them. And so, let's listen to the advice they have to offer. 
 
 "Work with friends/befriend the people you need to work with. More than the event itself, it's about the experience of organizing such a big event. Have fun. Don't be afraid to try things. More often than not, these mistakes while trying out new things won't have any long term negative effects. So, chill out."
 -Nishant Kumar
@@ -71,7 +72,7 @@ Wishing you great success."
 -Madhumitha Nara 
 
 
-We've read through the guidance they have to give to the future teams, so how about we hop over to ask about what they felt were the best and worst parts of the event?
+## We've read through the guidance they have to give to the future teams, so how about we hop over to ask about what they felt were the best and worst parts of the event?
 
 "Best part - seeing the stuff you made at a lot of places and seen by so many people.Getting your designs materialized into merchandise which being worn and used by a lot of people. Meeting with people with a lot of different ideas while coming up with a even better ideas working as a team.
 Worst part - when sometimes things don't go right and you have to compromise on ideas and publish or manage with unfinished and unsatisfactory work which will be seen by everyone aswell."
@@ -79,14 +80,15 @@ Worst part - when sometimes things don't go right and you have to compromise on 
 
 "Best part: We had a lot of online collaborations and sponsor incentive ideas. We were able to attract a good number of participants. The submission evaluation and fair judging policies
 Worst:We did not have the plan for the D-Day ready in advance. We should have worked on it from the start. Online publicity + outreach: we should have started applications earlier, did more publicity.
-- Closing on logistics: The goodies logistics should have been planned before the event even happened. Pushing it to post event delayed a lot of things and caused unexpected issues."
+
+Closing on logistics: The goodies logistics should have been planned before the event even happened. Pushing it to post event delayed a lot of things and caused unexpected issues."
 -K Rahul Reddy
 
 "The best part is the amazing feedback we've received from our participants regarding the event. The only bad taste in my mouth is that we were unable to ship goodies, none of us anticipated the paperwork involved."
 -Madhumitha Nara 
 
 
-And finally, let's ask them if they have any last words for us!
+## And finally, let's ask them if they have any last words for us!
 
 "Looking back, I think we should have worked a bit more on getting goodies for our participants and improve our branding."
 -Madhumitha Nara 
@@ -99,5 +101,4 @@ And finally, let's ask them if they have any last words for us!
 Start well in advance, work regularly the final day will be here before you know it."
 -Vybhav Pai
 
-"The unexpected second wave of Covid wrecked havoc on our plans by cutting off contact with our vendors, leading to an inability to procure our orders. Even after shop reopened, getting back on track was a task easier said than done. Picking up and continuing months-old conversations was even more troublesome than starting new negotiations. And to ensure the best experience for all participants, we needed to work out the finer details properly. We'd like to offer a thank you for your patience and understanding thus far, and please rest assured that we will deliver on our promises as soon as possible!"
-- Team HackVerse
+"The unexpected second wave of Covid wrecked havoc on our plans by cutting off contact with our vendors, leading to an inability to procure our orders. Even after shop reopened, getting back on track was a task easier said than done. Picking up and continuing months-old conversations was even more troublesome than starting new negotiations. And to ensure the best experience for all participants, we needed to work out the finer details properly. We'd like to offer a thank you for your patience and understanding thus far, and please rest assured that we will deliver on our promises as soon as possible!" -Team HackVerse
