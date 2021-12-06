@@ -29,19 +29,19 @@ With the second edition of HackVerse, HackVerse 2.0, done and dusted for the yea
 
 ## The way HackVerse was pulled off is certainly something to be very proud of, but behind every success story lies a great deal of effort. Let's take a quick trip behind the scenes to peek at some of the challenges the team had to overcome.
 
-"We did bring up a lot of companies for the marketing team with the help of my contacts, but really couldn't turn them up into potential sponsors. The companies which we approached, were not ready for sponsoring as they were hit by the pandemic too."
+"We did bring up a lot of companies for the marketing team with the help of my contacts, but really couldn't turn them into potential sponsors. The companies which we approached, were not ready to sponsor as they were hit by the pandemic too."
 -Laksh Sadhwani, Student Relations Team	
 
 "Typical shortcomings of an online event, everything is done in front of a computer, which drains out people, resulting in less casual interactions with everyone. However convenient it may be, organizing an online event can never come close to an offline event, where you talk to people (organizers, participants, caretakers, vendors, guests etc.), and not usernames/phone numbers."
 -Nishant Kumar, Operations Head, SR Head
 
-"One difficulty is, even after finalizing the theme, making the design and art style/asthetic of the materials we make uniform. As there will be multiple people working on the designs, finding the right balance of maintaining restrictions/templates while giving creative freedom to get the best outcome. For online event, we did use a lot of new platforms for our events and publicity as well so, trying to maximize our presence through custom design like having our custom theme based banners on webinars, appropriate versions of our logos in different places could be a challenge."
+"One difficulty is, even after finalizing the theme, making the design and art style/aesthetic of the materials we make uniform. As there will be multiple people working on the designs, finding the right balance of maintaining restrictions/templates while giving creative freedom to get the best outcome. For online event, we did use a lot of new platforms for our events and publicity as well so, trying to maximize our presence through custom design like having our custom theme based banners on webinars, appropriate versions of our logos in different places was a challenge."
 -Aditya Gourishetty, Media Head
 
-"We had a lot of challenges, the biggest one was to connect with the team, keep everyone in loop and organize the event online.Since the event was not offline, we did not have a lot of physical logistics to plan for, but this also came with a cost of not having good marketing points. We had to improvise to attract sponsors."
+"We had a lot of challenges, the biggest one was to connect with the team, keep everyone in the loop and organize the event online.Since the event was not offline, we did not have a lot of physical logistics to plan for, but this also came with a cost of not having good marketing points. We had to improvise to attract sponsors."
 -K Rahul Reddy, Lead Organizer
 
-"One of the biggest challenges is student engagement. Our mission was to empower student developers and support the existing community across India by providing them a common platform. Online interaction has made it difficult although we've done the best we can, thanks to all the creative ideas and effort put in by the team."
+"One of the biggest challenges is student engagement. Our mission was to empower student developers and support the existing community across India by providing them with a common platform. Online interaction has made it difficult although we've done the best we can, thanks to all the creative ideas and effort put in by the team."
 -Madhumitha Nara, Lead Organizer 
 
 "Good experience, sadly it was online. Working with a team of people you haven't met before is difficult. Faced issues in getting judges and speakers for the event. Verification of project was a bit difficult and so was judging. Keeping people engaged was an issue online compared to offline."
@@ -53,7 +53,7 @@ With the second edition of HackVerse, HackVerse 2.0, done and dusted for the yea
 "Work with friends/befriend the people you need to work with. More than the event itself, it's about the experience of organizing such a big event. Have fun. Don't be afraid to try things. More often than not, these mistakes while trying out new things won't have any long term negative effects. So, chill out."
 -Nishant Kumar
 
-"Probably instead of keeping a single design for repetitive tasks, keeping a design which can be tweaked with ease to introduce some simple uniqueness. This would lessen the monotony atleast a little bit and draw some more attention. Also, very important- keeping a well structured,shared and editable backups of all the work we do. Decide upon a well defined plan and timeline for the work and stick to it. Also regarding media try to be a bit passionate about your work and reflect upon others' opinion appropriately with relevance to your original idea."
+"Probably instead of keeping a single design for repetitive tasks, keeping a design which can be tweaked with ease to introduce some simple uniqueness. This would lessen the monotony atleast a little bit and draw some more attention. Also, very important- keeping a well structured,shared and editable backup of all the work you do. Decide upon a well defined plan and timeline for the work and stick to it. Also regarding media try to be a bit passionate about your work and reflect upon others' opinion appropriately with relevance to your original idea."
 -Aditya Gourishetty	
 
 "I've learnt from the team that people start working on an idea only when they truly believe in it. And in teams like HackVerse, every team member needs to understand why they are doing what they are doing. Keep in mind what is really important. It is very easy to lose track of what's the most important part of something we are working on. Be it a meet, a collaboration, or the entire event, make sure you have the big picture in mind and keep steering the right way.
@@ -74,31 +74,28 @@ Wishing you great success."
 
 ## We've read through the guidance they have to give to the future teams, so how about we hop over to ask about what they felt were the best and worst parts of the event?
 
-"Best part - seeing the stuff you made at a lot of places and seen by so many people.Getting your designs materialized into merchandise which being worn and used by a lot of people. Meeting with people with a lot of different ideas while coming up with a even better ideas working as a team.
-Worst part - when sometimes things don't go right and you have to compromise on ideas and publish or manage with unfinished and unsatisfactory work which will be seen by everyone aswell."
+"Best part - seeing the stuff you made at a lot of places and seen by so many people.Getting your designs materialized into merchandise which will be worn and used by a lot of people. Meeting with people with a lot of different ideas while coming up with even better ideas working as a team.
+Worst part - when sometimes things don't go right and you have to compromise on ideas and publish or manage with unfinished and unsatisfactory work which will be seen by everyone as well."
 -Aditya Gourishetty	
 
 "Best part: We had a lot of online collaborations and sponsor incentive ideas. We were able to attract a good number of participants. The submission evaluation and fair judging policies
-Worst:We did not have the plan for the D-Day ready in advance. We should have worked on it from the start. Online publicity + outreach: we should have started applications earlier, did more publicity.
+Worst:We did not have the plan for the D-Day ready in advance. We should have worked on it from the start. Online publicity + outreach: we should have started applications earlier, done more publicity.
 
 Closing on logistics: The goodies logistics should have been planned before the event even happened. Pushing it to post event delayed a lot of things and caused unexpected issues."
 -K Rahul Reddy
 
-"The best part is the amazing feedback we've received from our participants regarding the event. The only bad taste in my mouth is that we were unable to ship goodies, none of us anticipated the paperwork involved."
+"The best part is the amazing feedback we've received from our participants regarding the event."
 -Madhumitha Nara 
 
 
 ## And finally, let's ask them if they have any last words for us!
 
-"Looking back, I think we should have worked a bit more on getting goodies for our participants and improve our branding."
--Madhumitha Nara 
-
 "There is no real hierarchy within the heads, we all tried maintaining things that way. But some decisions have to come from some team heads. Make sure everyone is inclusive and included."
 -K Rahul Reddy
 
-"Just do it, apply meet new people and learn new stuff.	
+"Just do it, apply, meet new people and learn new stuff.	
 
-Start well in advance, work regularly the final day will be here before you know it."
+Start well in advance, work regularly, the final day will be here before you know it."
 -Vybhav Pai
 
 "The unexpected second wave of Covid wrecked havoc on our plans by cutting off contact with our vendors, leading to an inability to procure our orders. Even after shop reopened, getting back on track was a task easier said than done. Picking up and continuing months-old conversations was even more troublesome than starting new negotiations. And to ensure the best experience for all participants, we needed to work out the finer details properly. We'd like to offer a thank you for your patience and understanding thus far, and please rest assured that we will deliver on our promises as soon as possible!" -Team HackVerse
