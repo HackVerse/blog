@@ -20,7 +20,7 @@ With the second edition of HackVerse, HackVerse 2.0, done and dusted for the yea
 
 "I had an amazing experience being a part of the organizing team, especially because of the amazing teammates (both batchmates and juniors). Everyone was supportive of each other and that's what really holds the team spirit high." -Nishant Kumar, Operations Head, SR Head
 
-"Organizing HackVerse 2.0 was an amazing experience. Personally, I got to work with people who are motivated to organize the event, manage huge tasks and be part of planning one of the biggest online hackathons. As part of the team, we saw amazing ideas come to life and being implemented by the team. We wanted HackVerse to be one of a kind experience to the participants." 
+"Organizing HackVerse 2.0 was an amazing experience. Personally, I got to work with people who are motivated to organize the event, manage huge tasks and be a part of planning one of the biggest online hackathons. As part of the team, we saw amazing ideas come to life and be implemented by the team. We wanted HackVerse to be one of a kind experience for the participants." 
 -K Rahul Reddy, Lead Organizer	
 
 "HackVerse 2.0 happened under extraordinary circumstances. We had to deal with a lot of uncertainties and questions while planning for the event. Personally, I've learnt quite a bit about sponsor and vendor negotiations. The best part is the amazing feedback we've received from our participants regarding the event."
