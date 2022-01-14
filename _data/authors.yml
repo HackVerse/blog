@@ -164,3 +164,29 @@ Ramya Suresh Hegde:
   linkedin: 
   github: 
   cover: False
+Stavan Kudche:
+  username: stavan
+  name: Stavan Kudche
+  location:
+  url_full: 
+  url: 
+  bio: Member of the HackVerse 3.0 organizing team
+  picture: assets/images/stavank.jpeg
+  facebook:
+  twitter: 
+  linkedin: https://www.linkedin.com/in/stavankudche
+  github: 
+  cover: False
+Ishan Bhattacharya:
+  username: ishan
+  name: Ishan Bhattacharya
+  location:
+  url_full: 
+  url: 
+  bio: Member of the HackVerse 3.0 organizing team
+  picture: assets/images/ishan.jpeg
+  facebook:
+  twitter: 
+  linkedin: https://www.linkedin.com/in/ishan23
+  github: 
+  cover: False
