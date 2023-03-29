@@ -9,8 +9,8 @@ tags: [hackverse4.0]
 class: post-template
 subclass: 'post hackverse'
 author: 
-- Stavan Kudche
-- Ishan Bhattacharya
+- Subhojit Karmakar
+- Anagha H C
 ---
 
 Cody was excited; they knew that the time of the year had arrived for the most anticipated hackathon, HackVerse 4.0. Cody had been a part of HackVerse for years now and had seen the theme change every year. Last year, it was all about space, and Cody had a blast exploring the galaxy and meeting some of the brightest minds in the world of coding.
