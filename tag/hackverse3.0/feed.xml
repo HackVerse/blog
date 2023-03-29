@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="/blog/tag/hackverse3.0/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/blog/" rel="alternate" type="text/html" />
+  <updated>2023-03-29T16:45:30+00:00</updated>
+  <id>/blog/tag/hackverse3.0/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">HackVerse Blog | </title>
+  
+
+  
+    <subtitle>Hack It, Till You Crack it!</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">HackVerse 3.0 - Special Prizes</title>
+      <link href="/blog/hackverse-prizes" rel="alternate" type="text/html" title="HackVerse 3.0 - Special Prizes" />
+      <published>2022-02-26T00:00:00+00:00</published>
+      <updated>2022-02-26T00:00:00+00:00</updated>
+      <id>/blog/hackverse-prizes</id>
+      <content type="html" xml:base="/blog/hackverse-prizes">&lt;p&gt;Cody, on their space adventure, came across some amazing contests happening on other planets. The residents of the planets were intrigued by the idea of humans coming together and participating in HackVerse 3.0. Every planet decided to come up with tracks for all those participating and put up some really special prizes. Read along to find out more about the prizes, submission guidelines and judging criteria of each planet.&lt;/p&gt;
+
+&lt;h2 id=&quot;prizes&quot;&gt;Prizes:&lt;/h2&gt;
+
+&lt;h3 id=&quot;planet-celo&quot;&gt;Planet ‘Celo’&lt;/h3&gt;
+
+&lt;p&gt;Prizes up for grabs:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;₹20,000 for best Dapp built on Celo&lt;/li&gt;
+  &lt;li&gt;Continuity Support&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Submission Guidelines:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Submit the GitHub link of your publicly visible source code of the hack on Devfolio. Submissions with broken links will be marked ineligible for prizes.&lt;/li&gt;
+  &lt;li&gt;There must be clear description about the working of the hack in the README file. If the hack is live and can be tested, add the relevant links to that in the README file as well.&lt;/li&gt;
+  &lt;li&gt;Create a short video demo of the hack and upload to YouTube or any video sharing site. Make sure that the person watching the video is fully able to understand what the project does and what its functionalities are. Share the link on your Devfolio Submission.&lt;/li&gt;
+  &lt;li&gt;Make sure you’ve mentioned Celo in the Technologies Used section and selected the appropriate track while submitting the project.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Judging Criteria:&lt;/p&gt;
+
+&lt;p&gt;The judging will be done by the Celo team based on submissions on Devfolio, post the hackathon. Awarding the prize will be at the Celo team’s discretion and subject to the hacks meeting a minimum bar of quality. Prizes will be announced and disbursed within a couple of days after the hackathon.&lt;/p&gt;
+
+&lt;p&gt;Learn more about the Celo Track Prize &lt;a href=&quot;https://www.notion.so/devfolio/Celo-Devfolio-Hackathon-Season-Prize-8b98dac17f134abeae863d5d98c01ff0&quot;&gt;here&lt;/a&gt;. Sample projects built using the Celo protocol can be found &lt;a href=&quot;https://docs.celo.org/developer-guide/celo-dapp-gallery&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;planet-polygon&quot;&gt;Planet ‘Polygon’&lt;/h3&gt;
+
+&lt;p&gt;Prizes up for grabs:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;₹10,000 for the best hack built on Ethereum, or&lt;/li&gt;
+  &lt;li&gt;₹15,000 for the best hack built on Ethereum + Polygon,&lt;/li&gt;
+  &lt;li&gt;Eligibility to apply for internship/full-time roles and seed funding of up to 5,000 USD for winners!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Submission Guidelines:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Submit the GitHub link of your publicly visible source code of the hack on Devfolio. Submissions with broken links will be marked ineligible for prizes.&lt;/li&gt;
+  &lt;li&gt;There must be clear description about the working of the hack in the README file. If the hack is live and can be tested, add the relevant links to that in the README file as well.&lt;/li&gt;
+  &lt;li&gt;Create a short video demo of the hack and upload to YouTube or any video sharing site. Make sure that the person watching the video is fully able to understand what the bot does and what its functionalities are. Share the link on your Devfolio Submission.&lt;/li&gt;
+  &lt;li&gt;Make sure you’ve mentioned Polygon in the Technologies Used section and selected the appropriate track while submitting the project.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Judging Criteria:&lt;/p&gt;
+
+&lt;p&gt;The judging will be done by the Polygon team on basis of submissions based on Devfolio, post the hackathon. Awarding the prize will be at the discretion of the Polygon team and subject to the hacks meeting a minimum bar of quality. Prizes will be announced and disbursed within a couple of days after the hackathon. Amount will be paid out in stablecoin in case of recipient not having an Indian bank account.
+Learn more about the Polygon Track Prize &lt;a href=&quot;https://www.notion.so/devfolio/Polygon-Devfolio-Hackathon-Season-Prize-de8961d5eeff4780963749da0b75037c&quot;&gt;here&lt;/a&gt;. Sample projects using the Polygon Defi Ecosystem can be found &lt;a href=&quot;https://defiprime.com/polygon&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;planet-tezos&quot;&gt;Planet ‘Tezos’&lt;/h3&gt;
+
+&lt;p&gt;Prizes up for grabs:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;₹20,000 for best Dapp built on Tezos&lt;/li&gt;
+  &lt;li&gt;Continuity grant opportunity up to $5,000 for outstanding projects&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Submission Guidelines:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A submission with a working demo that demonstrates use of Tezos in some form or the other can defined as valid.&lt;/li&gt;
+  &lt;li&gt;Submit the GitHub link of your publicly visible source code of the hack on Devfolio. Broken links will disqualify the project from the judging process.&lt;/li&gt;
+  &lt;li&gt;There must be a clear description of the working of the hack in the README file. If the hack is live and can be tested, add the relevant links to that in the README file too.&lt;/li&gt;
+  &lt;li&gt;Create a short video demo of the hack and upload to YouTube or any video sharing site. Make sure that the person watching the video is fully able to understand what the bot does and what its functionalities are. Share the link on your Devfolio submission.&lt;/li&gt;
+  &lt;li&gt;Make sure you’ve mentioned Tezos in the Technologies Used section and selected the appropriate track while submitting the project.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Judging:&lt;/p&gt;
+
+&lt;p&gt;The judging will be done by the Tezos team based on submissions on Devfolio, post the hackathon. Awarding the prize will be at the Tezos India team’s discretion and subject to the hacks meeting a minimum bar of quality. Prizes will be announced and disbursed within a couple of weeks after the hackathon.&lt;/p&gt;
+
+&lt;p&gt;Learn more about the Tezos Track Prize &lt;a href=&quot;https://www.notion.so/devfolio/Tezos-Devfolio-Hackathon-Season-Prize-e90b6811b0df43e5a7dadf534fc000ff&quot;&gt;here&lt;/a&gt;. Sample projects using the Tezos blockchain can be found &lt;a href=&quot;https://tezosprojects.com/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;planet-filecoin&quot;&gt;Planet ‘Filecoin’&lt;/h3&gt;
+
+&lt;p&gt;Prizes up for grabs:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;₹20000 for best use of IPFS and/or Filecoin&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Submission Guidelines:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A submission with a working demo that demonstrates the use of IPFS and/or Filecoin in some form or the other can be defined as valid.&lt;/li&gt;
+  &lt;li&gt;Submit the GitHub link of your publicly visible source code of the hack on Devfolio. Broken links will disqualify the project from the judging process.&lt;/li&gt;
+  &lt;li&gt;There must be a clear description of the working of the hack in the README file. If the hack is live and can be tested, add the relevant links to that in the README file too.&lt;/li&gt;
+  &lt;li&gt;Create a short video demo on Devfolio itself while making the submission. Make sure that the person watching the video is fully able to understand what the bot does and what its functionalities are.&lt;/li&gt;
+  &lt;li&gt;Make sure you’ve mentioned IPFS and/or Filecoin in the Technologies Used section and selected the appropriate track while submitting the project.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Judging:&lt;/p&gt;
+
+&lt;p&gt;The judging will be done by the Protocol Labs team based on submissions on Devfolio, post the hackathon. Awarding the prize will be at the Protocol Labs team’s discretion and subject to the hacks meeting a minimum bar of quality. Prizes will be announced and disbursed within a couple of days after the hackathon.
+Learn more about the Filecoin Track Prize &lt;a href=&quot;https://devfolio.notion.site/Filecoin-Devfolio-Hackathon-Season-Prize-998fc3fe477e474086ae1d5ed1685203&quot;&gt;here&lt;/a&gt;. IPFS and Filecoin based projects can be found &lt;a href=&quot;https://docs.ipfs.io/concepts/usage-ideas-examples/&quot;&gt;here&lt;/a&gt; and &lt;a href=&quot;https://filecoin.io/blog/posts/30-days-130-projects-recognizing-new-ideas-to-power-web3/&quot;&gt;here&lt;/a&gt; respectively.&lt;/p&gt;
+
+&lt;h3 id=&quot;planet-alan-ai&quot;&gt;Planet ‘Alan AI’&lt;/h3&gt;
+
+&lt;p&gt;Prizes up for grabs:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;₹6000 for best integration of Alan AI. Hack must be live and voice command responsive.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Submission Guidelines:&lt;/p&gt;
+
+&lt;p&gt;For the Alan AI track, participants have to integrate Alan AI in their existing project in the hackathon. We have just 3 guidelines regarding the track prize including-&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;To qualify as eligible integration, UI must be responsive to voice commands.&lt;/li&gt;
+  &lt;li&gt;Project must use the Alan AI Slots method in the project.&lt;/li&gt;
+  &lt;li&gt;The project should be live.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;planet-rosenfeld&quot;&gt;Planet ‘Rosenfeld’&lt;/h3&gt;
+
+&lt;p&gt;Prizes up for grabs:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ebooks for Podium Winners.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;planet-bpb&quot;&gt;Planet ‘Bpb’&lt;/h3&gt;
+&lt;p&gt;Prizes up for grabs:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ebooks of Python for Professionals, Cybersecurity Fundamentals, Neural Network for Beginners for Track winners&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;planet-geeksforgeeks&quot;&gt;Planet ‘GeeksforGeeks’&lt;/h3&gt;
+&lt;p&gt;Prizes up for grabs:&lt;/p&gt;
+
+&lt;p&gt;Winning Team (Any one of the listed options will be offered):&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;C++ST-Self-Paced Course worth Rs.3,000&lt;/li&gt;
+  &lt;li&gt;OS DBMS CN for SDE Interview Preparation worth Rs.3,000&lt;/li&gt;
+  &lt;li&gt;Data Structures and Algorithm Foundation-Self Paced worth Rs.3,500&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;1st Runner Up Team (Any one of the listed options will be offered):&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fundamentals of Java and Java collections worth Rs. 2500&lt;/li&gt;
+  &lt;li&gt;DSA Using Python Programming-Self Paced worth Rs. 2500&lt;/li&gt;
+  &lt;li&gt;Android Development for Beginners-Self Paced worth Rs.2500&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;2nd runner Up Team (Any one of the listed options will be offered):&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Database Management System For Gate-Self Paced worth Rs.1500&lt;/li&gt;
+  &lt;li&gt;Complier Design for GATE-Self Paced worth Rs.1500&lt;/li&gt;
+  &lt;li&gt;Operating System for GATE-Self Paced worth Rs.1500&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Track Winning Team (Any one of the listed options will be offered):&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;CAT Mock Test Series&lt;/li&gt;
+  &lt;li&gt;TCS NQT Preparation Test Series&lt;/li&gt;
+  &lt;li&gt;Advanced Javascript-Self Paced&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;planet-digital-ocean&quot;&gt;Planet ‘Digital Ocean’&lt;/h3&gt;
+&lt;p&gt;Prizes up for grabs:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;A total of $2,000 in credits to the winning team(s) - these can be distributed only in sums of $100, $125, and $250, per winning team.&lt;/li&gt;
+  &lt;li&gt;$100, 60-day free trial for all attendees using this link/scanning the attached QR code: &lt;a href=&quot;https://try.digitalocean.com/developer-cloud&quot;&gt;https://try.digitalocean.com/developer-cloud&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;This code and promo are only accessible to new customers to DigitalOcean.&lt;/li&gt;
+      &lt;li&gt;Smart hack = if the winning teams sign up using this link that would mean $100 additional to the winning credits.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;planet-leading-learners&quot;&gt;Planet ‘Leading Learners’&lt;/h3&gt;
+&lt;p&gt;Prizes up for grabs:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Leading Learners Expansion Packs (valued at $100USD each) for top 3 teams &amp;amp; track winners of the event.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now that Cody has given you the secrets to winning the special prizes, you’re good to go! Get aboard your spaceships and fire the engines!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>[&quot;Stavan Kudche&quot;, &quot;Ishan Bhattacharya&quot;]</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="hackverse3.0" />
+      
+
+      
+        <summary type="html">Cody, on their space adventure, came across some amazing contests happening on other planets. The residents of the planets were intrigued by the idea of humans coming together and participating in HackVerse 3.0. Every planet decided to come up with tracks for all those participating and put up some really special prizes. Read along to find out more about the prizes, submission guidelines and judging criteria of each planet.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">The Interstellar Guide to HackVerse 3.0</title>
+      <link href="/blog/interstellar-guide-to-hackverse" rel="alternate" type="text/html" title="The Interstellar Guide to HackVerse 3.0" />
+      <published>2022-02-26T00:00:00+00:00</published>
+      <updated>2022-02-26T00:00:00+00:00</updated>
+      <id>/blog/interstellar-guide-to-hackverse</id>
+      <content type="html" xml:base="/blog/interstellar-guide-to-hackverse">&lt;p&gt;Eager. Excited. Nervous. Which one of them do you relate to? All of them? Relax, relax. I too relate to the first two. Yes, you guessed it right, it’s Cody again! I hope you’re all prepared for this thrilling expedition. What can you expect, you ask? Well…space debris, aliens, zero gravity maybe. I’m kidding! Let me run you through the entire process so that you have an idea of what lies in store for you.&lt;/p&gt;
+
+&lt;h3 id=&quot;0900-am&quot;&gt;09:00 AM&lt;/h3&gt;
+
+&lt;p&gt;Introduce yourself in the Discord channel and in the ‘Event Feed’ on the Hubilo platform. Filter the other introductions using the Introduction tag.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/intro-0900.jpeg&quot; alt=&quot;Introduction on Hublio&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Join in for the opening ceremony in the ‘Live Sessions’ section on Hubilo. You may use Q&amp;amp;A and live chat during the session.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/intro-hublio.jpeg&quot; alt=&quot;Introduction on Hublio&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Contact other participants and form teams of 2 or 3. Do this before 11:00 AM.&lt;/p&gt;
+
+&lt;h3 id=&quot;1100-am---1200-pm&quot;&gt;11:00 AM - 12:00 PM&lt;/h3&gt;
+
+&lt;p&gt;A check-in form will be shared where the details of your team and its members have to be filled in.&lt;/p&gt;
+
+&lt;h3 id=&quot;1200-pm&quot;&gt;12:00 PM&lt;/h3&gt;
+
+&lt;p&gt;Every team will be provided with their own ‘room’ for discussion. Use this ‘room’ for all private discussions with your team. It’s your personal space, no other team will be able to take a peek in.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/rooms-1200.jpeg&quot; alt=&quot;Rooms&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;0100-pm---0300-pm&quot;&gt;01:00 PM - 03:00 PM&lt;/h3&gt;
+
+&lt;p&gt;During these hours, mentors will be available in ‘rooms’. You may approach their ‘room’ to discuss your ideas with them.
+A moderator from the HackVerse team will be available to ensure a smooth experience, so do patiently wait your turn. Also, use this opportunity to fine-tune your ideas and get a better score.&lt;/p&gt;
+
+&lt;h3 id=&quot;0300-pm---0400-pm&quot;&gt;03:00 PM - 04:00 PM&lt;/h3&gt;
+
+&lt;p&gt;After your discussion with the mentor, your idea is good to go. It’s now time to put your idea into lines of code. Start coding and finish as much as possible so that you have more time to have fun later on.&lt;/p&gt;
+
+&lt;h3 id=&quot;0400-pm---0500-pm&quot;&gt;04:00 PM - 05:00 PM&lt;/h3&gt;
+
+&lt;p&gt;There will be a talk on ‘Banking Evolution, Usage of Blockchain’, the speaker being Ramprabhu T Kadambi, Senior Vice President, Commercial Corporate and Investment Banking Technology, Wells Fargo. This will be in the ‘Live Sessions’ section.
+You can ask your queries in the comments section and we will reply to them.&lt;/p&gt;
+
+&lt;h3 id=&quot;0500-pm---0600-pm&quot;&gt;05:00 PM - 06:00 PM&lt;/h3&gt;
+
+&lt;p&gt;Implement all the knowledge you have gained so far into your code. Use all those dormant brain cells that have been sleeping for way too long now.&lt;/p&gt;
+
+&lt;h3 id=&quot;0600-pm---0700-pm&quot;&gt;06:00 PM - 07:00 PM&lt;/h3&gt;
+
+&lt;p&gt;Break out of your shells and interact with the sponsors of HackVerse 3.0. Join their ‘rooms’ and gain knowledge of everything you are interested in.&lt;/p&gt;
+
+&lt;h3 id=&quot;0700-pm---0800-pm&quot;&gt;07:00 PM - 08:00 PM&lt;/h3&gt;
+
+&lt;p&gt;Things might be getting too hectic. Take a break. Join the ‘lounge’ section to discuss interesting topics and chill with other participants.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/lounge-1900.jpeg&quot; alt=&quot;Lounge&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;0800-pm---1000-pm&quot;&gt;08:00 PM - 10:00 PM&lt;/h3&gt;
+
+&lt;p&gt;Hours of ideation and coding, there might be doubts stacked up. Here is some advice - take expert advice. Judges will be available in ‘rooms’ to discuss all your doubts.&lt;/p&gt;
+
+&lt;h3 id=&quot;1100-pm---0100-am&quot;&gt;11:00 PM - 01:00 AM&lt;/h3&gt;
+
+&lt;p&gt;Time for mid-evaluation! Nothing to worry about. Just a friendly conversation about your project with a member of our tech team.
+Note- Be online during the evaluation. If you are not available, please give prior information to your SPoC so that the evaluation can be scheduled accordingly.&lt;/p&gt;
+
+&lt;h3 id=&quot;0100-am---0200-am&quot;&gt;01:00 AM - 02:00 AM&lt;/h3&gt;
+
+&lt;p&gt;All work and no play, we don’t want you to have a dull day. Head to the ‘Event feed’ to find games and fun events lined up for you. Join in and enjoy!&lt;/p&gt;
+
+&lt;h3 id=&quot;0800-am---0900-am&quot;&gt;08:00 AM - 09:00 AM&lt;/h3&gt;
+
+&lt;p&gt;Judges will be available in ‘rooms’ to discuss doubts. This is the last chance to get your doubts clarified, don’t let this opportunity slip away.&lt;/p&gt;
+
+&lt;h3 id=&quot;1200-pm-1&quot;&gt;12:00 PM&lt;/h3&gt;
+
+&lt;p&gt;Time’s up for coding! We do not entertain any commits after this. Any commit after 12:00 PM will be considered invalid.&lt;/p&gt;
+
+&lt;h3 id=&quot;1200-pm---0100-pm&quot;&gt;12:00 PM - 01:00 PM&lt;/h3&gt;
+
+&lt;p&gt;Make and submit your project video, a pretty presentation of fewer than five minutes explaining your project.
+Note- 01:00 PM is the Devfolio deadline. No submissions will be accepted after this.&lt;/p&gt;
+
+&lt;h3 id=&quot;0100-pm---0200-pm&quot;&gt;01:00 PM - 02:00 PM&lt;/h3&gt;
+
+&lt;p&gt;Hours of hard work and amazing results, now you have a chance to show off all you want. Contact your SPoC with the necessary details. They will help you set up exhibition booths where you can showcase your projects.&lt;/p&gt;
+
+&lt;h3 id=&quot;0200-pm---0500-pm&quot;&gt;02:00 PM - 05:00 PM&lt;/h3&gt;
+
+&lt;p&gt;Your projects are now open for all to see. You can exhibit them in the booths made for you in the ‘Project Expo’ section. Visit other booths to exchange knowledge and gain insights on various projects.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/expo-1400.jpeg&quot; alt=&quot;Expo&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;0530-pm---0800-pm&quot;&gt;05:30 PM - 08:00 PM&lt;/h3&gt;
+
+&lt;p&gt;Congratulations on making it to the Top 10! Present your projects to our judges using a PowerPoint Presentation. There will be a live evaluation of your project on YouTube. Quite thrilling, right?&lt;/p&gt;
+
+&lt;h3 id=&quot;0830-pm&quot;&gt;08:30 PM&lt;/h3&gt;
+
+&lt;p&gt;Winners will be announced! The closing ceremony on ‘Live Sessions’ will mark the conclusion of the hackathon.&lt;/p&gt;
+
+&lt;p&gt;I’m ready for take-off, are you? The countdown begins! Ten. Nine. Eight…&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>[&quot;Stavan Kudche&quot;, &quot;Ishan Bhattacharya&quot;]</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="hackverse3.0" />
+      
+
+      
+        <summary type="html">Eager. Excited. Nervous. Which one of them do you relate to? All of them? Relax, relax. I too relate to the first two. Yes, you guessed it right, it’s Cody again! I hope you’re all prepared for this thrilling expedition. What can you expect, you ask? Well…space debris, aliens, zero gravity maybe. I’m kidding! Let me run you through the entire process so that you have an idea of what lies in store for you. 09:00 AM</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">HackVerse 3.0 Tracks and Sample Solution</title>
+      <link href="/blog/hackverse-tracks-and-sample-solutions" rel="alternate" type="text/html" title="HackVerse 3.0 Tracks and Sample Solution" />
+      <published>2022-02-26T00:00:00+00:00</published>
+      <updated>2022-02-26T00:00:00+00:00</updated>
+      <id>/blog/hackverse-tracks-and-sample-solutions</id>
+      <content type="html" xml:base="/blog/hackverse-tracks-and-sample-solutions">&lt;p&gt;Hello there, I’m back! Oh don’t tell me you forgot me, Cody, your mascot for Hackverse 3.0.&lt;/p&gt;
+
+&lt;p&gt;Want to provide terrific solutions using all that you know, but have no idea in which direction to go?
+Don’t scratch your head all day long, just hop into my cosmic express and come along.
+Let’s explore together land, space and sea; I’ve planned to take you beyond The Andromeda Galaxy.
+There are opportunities everywhere, choose a track; there are hurdles there, provide a hack.
+Time to heal the world, roll up your sleeve; all you gotta do is Imagine, Believe, Achieve!&lt;/p&gt;
+
+&lt;p&gt;HackVerse 3.0 presents to you this year’s tracks:&lt;/p&gt;
+
+&lt;h2 id=&quot;track-1---cosmic-express&quot;&gt;TRACK 1 - CosMic Express&lt;/h2&gt;
+
+&lt;p&gt;Get up in the middle of a boring day, pack your bags and set out to explore the unknown, taking it for granted that the journey will be hassle-free. Or, chat with a friend and hatch plans to take down the likes of Meta and Google without bothering about the masked guy sitting in an unknown hideout and reading your chats. Sounds exciting, doesn’t it?&lt;/p&gt;
+
+&lt;p&gt;For this track, create anything which gives an insight on better communication and transportation of individuals. Better transportation could be with respect to speed or ease of travel, better communication could be between individuals, machines or even between an individual and machine, making communication faster and much safer (giving everyone the privacy they deserve).&lt;/p&gt;
+
+&lt;p&gt;The transport domain could include ideas such as a flying taxi at the Dubai expo and Uber elevate. This would require image segmentation to identify obstacles, navigation technology to manage air traffic, and various other components require software solutions. Hyperloop requires high speed communication to control brake and propulsion systems and uses RTOS (Real Time Operating Systems). There are software solutions that can be made in this domain. The digital communication industry is another fast evolving industry with new and creative technologies appearing every year. Voice commands and gesture recognition are finding more places in HCI (Human Computer Interaction). There are many fun and creative technologies like AR (Augmented Reality) that can be explored in this domain too.&lt;/p&gt;
+
+&lt;h2 id=&quot;track-2---andromedia&quot;&gt;TRACK 2 - AndroMedia&lt;/h2&gt;
+
+&lt;p&gt;‘Entertainment’, a term so vague that it could encapsulate almost any activity performed by humans, something so intertwined with all of our lifestyles. All of us have our comfort activities, something we do in our pyjamas at the end of a long day, be it playing games, reading books or watching web series. Most of these activities have now shifted online and require some sort of device or application catering to our entertainment needs.&lt;/p&gt;
+
+&lt;p&gt;Along this track, you would be building something that simply entertains, it could be a game, a mobile or PC application, maybe even virtual or augmented reality. The digital entertainment industry is getting bigger than ever. Microsoft has made the largest acquisition in gaming history by acquiring Activision Blizzard (worth 68.7 Billion USD).&lt;/p&gt;
+
+&lt;p&gt;In this field you can come up with innovative ways of entertainment. It can be games, gamified activities, taking your favourite radio-station online (podcast related softwares), infotainment, AI assisted theme selection based on your likes (for OS, browser, home lighting), etc.&lt;/p&gt;
+
+&lt;h2 id=&quot;track-3---plan-et-well&quot;&gt;TRACK 3 - Plan-et Well&lt;/h2&gt;
+
+&lt;p&gt;We have all learnt what sustainable development is in our textbooks, and now it is probably the single most important point to keep in mind before we carry on with any sort of development. We certainly are not at the healthiest stage with respect to Mother Earth, coming out of a severe pandemic with clouds of climate change looming over our heads since the last few decades. It would be safe to say we are at the most delicate time in the history of our planet.&lt;/p&gt;
+
+&lt;p&gt;For this track, you would be creating something that makes an environmental impact, which may be related to climate change, global warming or even making the best use of the resources on hand.&lt;/p&gt;
+
+&lt;p&gt;A rather ambitious instance of such a software would be an application which uses satellite images to capture illegal deforestation or wildfire. Another example of a software that will assist nature would be to maintain a “nature health index” for different pin codes on Earth, which is based on various factors like air quality, vegetation, and climate. This will help people to track the state of their environment and improve the conditions.&lt;/p&gt;
+
+&lt;h2 id=&quot;track-4---healthyself&quot;&gt;TRACK 4 - HealThyself&lt;/h2&gt;
+
+&lt;p&gt;The healthcare industry has turned out to be the most dependable and sought after industry during the pandemic. Therefore it comes as no surprise that the developments in the next few years will also be targeted towards the same. The frontline warriors, as they are rightly called, risked their lives to save ours, and it’s only fair if we supply them with the best technology to make their jobs a little easier.&lt;/p&gt;
+
+&lt;p&gt;If you choose to follow this track, you will be developing an application to improve the current scenario in the health care sector. It can be automation, or it can be an app which records all health parameters and suggests whether to check any particular body part. AI assisted diagnosis is something that can complement doctors and prevent certain diseases from going undetected.&lt;/p&gt;
+
+&lt;h2 id=&quot;track-5---hack-a-block&quot;&gt;TRACK 5 - Hack-a-block&lt;/h2&gt;
+
+&lt;p&gt;The year was 2013, and a new word ‘selfie’ made its way into every conversation, gathering and photo session eventually becoming the word of the year. The usage of the words ‘crypto’, ‘blockchain’ and ‘bitcoin’ have seen a similar exponential rise in the last few years. The impact of blockchain has been enormous, everywhere around the world and crypto currency is very truly on it’s way to becoming the ‘NEW NORMAL’.&lt;/p&gt;
+
+&lt;p&gt;For this track you will have to develop an application that uses blockchain technology, which you can further relate to cryptocurrency as well. Some implementations of blockchain other than cryptocurrency include Secure Electronic Voting System (Secure EVS).&lt;/p&gt;
+
+&lt;h2 id=&quot;track-6---xplor&quot;&gt;TRACK 6 - Xplor&lt;/h2&gt;
+
+&lt;p&gt;How barren would the world be without curious minds around us who are always exploring the endless possibilities to transform mundane things into something worth glancing at more than once! Everything around us was at some point ‘just another thing’ until someone went on an exploration trip to find the extra in the ordinary.&lt;/p&gt;
+
+&lt;p&gt;If you choose this track you would be working on a project which is along the lines of innovation and exploration of new possibilities from the existing technology.&lt;/p&gt;
+
+&lt;p&gt;HackVerse 3.0 promises you lots of learning and lots of fun. Good luck! Cody signing off, see ya!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>[&quot;Stavan Kudche&quot;, &quot;Ishan Bhattacharya&quot;]</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="hackverse3.0" />
+      
+
+      
+        <summary type="html">Hello there, I’m back! Oh don’t tell me you forgot me, Cody, your mascot for Hackverse 3.0.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">HackVerse 3.0: FUTURE IN SPACE</title>
+      <link href="/blog/hackverse-future-in-space" rel="alternate" type="text/html" title="HackVerse 3.0: FUTURE IN SPACE" />
+      <published>2022-01-15T00:00:00+00:00</published>
+      <updated>2022-01-15T00:00:00+00:00</updated>
+      <id>/blog/hackverse-future-in-space</id>
+      <content type="html" xml:base="/blog/hackverse-future-in-space">&lt;p&gt;Beep, beep, beep … the sound of sirens kept amplifying with every beep. Cody slowly opened their eyes. Around them were creatures they had not seen before, and they looked at Cody with relieved and welcoming expressions. There were wires connecting Cody to very sophisticated machines, and it suddenly struck them that they were not where they were meant to be. Something about the creatures reminded them of their friends on Earth, but Cody realised that they were elsewhere.&lt;/p&gt;
+
+&lt;p&gt;Cody was told that they were found floating aimlessly in space and so were rescued and brought into this spaceship. Space? And a spaceship? Cody could not believe that they were with aliens! They tried to recollect what had happened.&lt;/p&gt;
+
+&lt;p&gt;Cody remembered the thrilling underwater expedition they had embarked upon during HackVerse 2.0. After that rousing quest, they had begun to swim back to the surface and put themself on automatic mode in order to get some rest. But the rest lasted a bit too long, long enough to cross the Earth’s atmosphere and take them to space! Cody was a bit embarrassed, but the prospect of another adventure thrilled them. They began to thoroughly enjoy their time on the spaceship, visiting different planets and learning more about their extraterrestrial friends.&lt;/p&gt;
+
+&lt;p&gt;“APPROACHING EARTH,” came a robotic voice, and a screen flashed the same. Cody could not control their excitement and was the first to alight from the spaceship to see their home planet.&lt;/p&gt;
+
+&lt;p&gt;What Cody witnessed was an entirely different world. High rise buildings with an interconnected framework of skywalks, cars that hovered around like drones, technological marvels that Cody had never imagined would be possible! Everything they came across was fascinating and facilitated a very user-friendly experience. Cody soon came across a cosy café. It had a pleasant ambience and was filled with people, but something seemed strange. The people there had peculiar headsets on and were sitting all by themselves. On enquiry, Cody found that it was a café where people met and talked to each other virtually using VR headsets. A feeling of sorrow began to creep in as Cody recollected the wonderful moments they had spent with their creators and buddies; they missed being with them. Where were they now, and why did the Earth seem so different?&lt;/p&gt;
+
+&lt;p&gt;On seeing Cody’s confusion, the aliens explained to them that this Earth was one of the alternative futures of the Earth that Cody had been on. To explain further, they decided to take them to a few other alternative futures of Earth.&lt;/p&gt;
+
+&lt;p&gt;This time, the spaceship landed near a half-built school. Broken benches and tables were scattered around what seemed like a playground. The environment was dusty, and the town seemed to be facing the aftermath of complete chaos. Cody observed a sense of timidity in the atmosphere. Everyone appeared to be minding their own business, yet there was a rush in their step. Cody could not make sense of anything they saw and got back into the spaceship to escape the disturbing world.&lt;/p&gt;
+
+&lt;p&gt;Soon, they came across another future Earth. On getting down from the spaceship, Cody found themself standing in front of a beautiful greenhouse filled with a wide variety of plants. There was a long queue outside and Cody was excited and curious to know why. But what they saw frightened them; the signboard at the entrance read “FRESH OXYGEN FOR $10 AN HOUR”. They went on to find that there were many such crowded oxygen booths all over the town. They were relieved that they did not need air to survive. But then what about their buddies, their HackVerse participants whom they loved so much? Would they have to be a part of this?&lt;/p&gt;
+
+&lt;p&gt;After returning to the spaceship, Cody thought deeply about what could be done to save the Earth from such terrifying futures. They realised that the future is what we make it. Whether a utopian future or a dystopian one, it is in our hands. It is made up of all the tiny steps we take now, in the present. Today’s ideas will build tomorrow’s world. The future will be what we build together.&lt;/p&gt;
+
+&lt;p&gt;And so … Cody is here to cheer you on as you embark upon your space adventure, on your journey to build our future.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>[&quot;Stavan Kudche&quot;, &quot;Ishan Bhattacharya&quot;]</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="hackverse3.0" />
+      
+
+      
+        <summary type="html">Beep, beep, beep … the sound of sirens kept amplifying with every beep. Cody slowly opened their eyes. Around them were creatures they had not seen before, and they looked at Cody with relieved and welcoming expressions. There were wires connecting Cody to very sophisticated machines, and it suddenly struck them that they were not where they were meant to be. Something about the creatures reminded them of their friends on Earth, but Cody realised that they were elsewhere.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

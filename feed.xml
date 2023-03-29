@@ -1,0 +1,815 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2023-03-29T16:45:30+00:00</updated><id>/blog/</id><title type="html">HackVerse Blog</title><subtitle>Hack It, Till You Crack it!</subtitle><entry><title type="html">HackVerse 4.0 Theme</title><link href="/blog/theme-blog-hv-4" rel="alternate" type="text/html" title="HackVerse 4.0 Theme" /><published>2023-03-29T00:00:00+00:00</published><updated>2023-03-29T00:00:00+00:00</updated><id>/blog/theme-blog-hv-4</id><content type="html" xml:base="/blog/theme-blog-hv-4">&lt;p&gt;Cody was excited; they knew that the time of the year had arrived for the most anticipated hackathon, HackVerse 4.0. Cody had been a part of HackVerse for years now and had seen the theme change every year. Last year, it was all about space, and Cody had a blast exploring the galaxy and meeting some of the brightest minds in the world of coding.&lt;/p&gt;
+
+&lt;p&gt;But this year, something was different; Cody felt a certain chill in the air. They couldn’t help but wonder what the new theme for HackVerse would be.&lt;/p&gt;
+
+&lt;p&gt;As Cody arrived at the venue, they noticed that everything had transformed into a summer paradise. There were palm trees, colourful flowers, and beach chairs all over the place. Cody was taken aback - never had they witnessed anything like this before. As they made their way to the main stage, they noticed a group of people huddled together, whispering among themselves.&lt;/p&gt;
+
+&lt;p&gt;Cody’s curiosity was piqued, and they couldn’t resist eavesdropping. They overheard snippets of conversation that hinted at something different from the summer paradise around them. “I heard we have to prepare for sub-zero temperatures,” one person said. “I saw a polar bear roaming around earlier,” another added.&lt;/p&gt;
+
+&lt;p&gt;Cody’s heart began to race - what was going on? They tried to ask the people around, but they just smiled and told them to wait and see.&lt;/p&gt;
+
+&lt;p&gt;Finally, Cody’s dearest friends, the organisers of HackVerse, arrived. Cody felt a sense of relief. Maybe they would finally reveal what was going on. But instead of telling Cody and the other participants what the theme was, they handed Cody a clue.&lt;/p&gt;
+
+&lt;p&gt;The clue was cryptic, but Cody was a smart little guy. They studied it for a moment before the realization hit him like a ton of bricks. The Arctic! The theme for this year’s HackVerse was going to be the Arctic!&lt;/p&gt;
+
+&lt;p&gt;Cody’s excitement knew no bounds. They knew that this was going to be an unforgettable experience, one that would test everyone’s limits and push them to be the best that they could be. And with a sense of renewed vigour, Cody set out to explore everything that HackVerse 4.0 had to offer.&lt;/p&gt;
+
+&lt;p&gt;From coding challenges to brainstorming sessions, from networking events to keynote speeches, Cody made the most of every opportunity. And as they looked around, they realised that they were surrounded by some of the brightest minds in the world of coding, all of them working together to create solutions that could change the world.&lt;/p&gt;
+
+&lt;p&gt;Cody closed their eyes, merging into the surroundings. They knew that they would always cherish the memories of HackVerse 4.0, the most incredible hackathon yet. They were finally back with the people they considered family, doing what they loved the most; Cody was finally back home.&lt;/p&gt;</content><author><name>[&quot;Subhojit Karmakar&quot;, &quot;Anagha H C&quot;]</name></author><category term="hackverse4.0" /><summary type="html">Cody was excited; they knew that the time of the year had arrived for the most anticipated hackathon, HackVerse 4.0. Cody had been a part of HackVerse for years now and had seen the theme change every year. Last year, it was all about space, and Cody had a blast exploring the galaxy and meeting some of the brightest minds in the world of coding.</summary></entry><entry><title type="html">HackVerse 3.0 - Special Prizes</title><link href="/blog/hackverse-prizes" rel="alternate" type="text/html" title="HackVerse 3.0 - Special Prizes" /><published>2022-02-26T00:00:00+00:00</published><updated>2022-02-26T00:00:00+00:00</updated><id>/blog/hackverse-prizes</id><content type="html" xml:base="/blog/hackverse-prizes">&lt;p&gt;Cody, on their space adventure, came across some amazing contests happening on other planets. The residents of the planets were intrigued by the idea of humans coming together and participating in HackVerse 3.0. Every planet decided to come up with tracks for all those participating and put up some really special prizes. Read along to find out more about the prizes, submission guidelines and judging criteria of each planet.&lt;/p&gt;
+
+&lt;h2 id=&quot;prizes&quot;&gt;Prizes:&lt;/h2&gt;
+
+&lt;h3 id=&quot;planet-celo&quot;&gt;Planet ‘Celo’&lt;/h3&gt;
+
+&lt;p&gt;Prizes up for grabs:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;₹20,000 for best Dapp built on Celo&lt;/li&gt;
+  &lt;li&gt;Continuity Support&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Submission Guidelines:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Submit the GitHub link of your publicly visible source code of the hack on Devfolio. Submissions with broken links will be marked ineligible for prizes.&lt;/li&gt;
+  &lt;li&gt;There must be clear description about the working of the hack in the README file. If the hack is live and can be tested, add the relevant links to that in the README file as well.&lt;/li&gt;
+  &lt;li&gt;Create a short video demo of the hack and upload to YouTube or any video sharing site. Make sure that the person watching the video is fully able to understand what the project does and what its functionalities are. Share the link on your Devfolio Submission.&lt;/li&gt;
+  &lt;li&gt;Make sure you’ve mentioned Celo in the Technologies Used section and selected the appropriate track while submitting the project.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Judging Criteria:&lt;/p&gt;
+
+&lt;p&gt;The judging will be done by the Celo team based on submissions on Devfolio, post the hackathon. Awarding the prize will be at the Celo team’s discretion and subject to the hacks meeting a minimum bar of quality. Prizes will be announced and disbursed within a couple of days after the hackathon.&lt;/p&gt;
+
+&lt;p&gt;Learn more about the Celo Track Prize &lt;a href=&quot;https://www.notion.so/devfolio/Celo-Devfolio-Hackathon-Season-Prize-8b98dac17f134abeae863d5d98c01ff0&quot;&gt;here&lt;/a&gt;. Sample projects built using the Celo protocol can be found &lt;a href=&quot;https://docs.celo.org/developer-guide/celo-dapp-gallery&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;planet-polygon&quot;&gt;Planet ‘Polygon’&lt;/h3&gt;
+
+&lt;p&gt;Prizes up for grabs:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;₹10,000 for the best hack built on Ethereum, or&lt;/li&gt;
+  &lt;li&gt;₹15,000 for the best hack built on Ethereum + Polygon,&lt;/li&gt;
+  &lt;li&gt;Eligibility to apply for internship/full-time roles and seed funding of up to 5,000 USD for winners!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Submission Guidelines:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Submit the GitHub link of your publicly visible source code of the hack on Devfolio. Submissions with broken links will be marked ineligible for prizes.&lt;/li&gt;
+  &lt;li&gt;There must be clear description about the working of the hack in the README file. If the hack is live and can be tested, add the relevant links to that in the README file as well.&lt;/li&gt;
+  &lt;li&gt;Create a short video demo of the hack and upload to YouTube or any video sharing site. Make sure that the person watching the video is fully able to understand what the bot does and what its functionalities are. Share the link on your Devfolio Submission.&lt;/li&gt;
+  &lt;li&gt;Make sure you’ve mentioned Polygon in the Technologies Used section and selected the appropriate track while submitting the project.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Judging Criteria:&lt;/p&gt;
+
+&lt;p&gt;The judging will be done by the Polygon team on basis of submissions based on Devfolio, post the hackathon. Awarding the prize will be at the discretion of the Polygon team and subject to the hacks meeting a minimum bar of quality. Prizes will be announced and disbursed within a couple of days after the hackathon. Amount will be paid out in stablecoin in case of recipient not having an Indian bank account.
+Learn more about the Polygon Track Prize &lt;a href=&quot;https://www.notion.so/devfolio/Polygon-Devfolio-Hackathon-Season-Prize-de8961d5eeff4780963749da0b75037c&quot;&gt;here&lt;/a&gt;. Sample projects using the Polygon Defi Ecosystem can be found &lt;a href=&quot;https://defiprime.com/polygon&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;planet-tezos&quot;&gt;Planet ‘Tezos’&lt;/h3&gt;
+
+&lt;p&gt;Prizes up for grabs:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;₹20,000 for best Dapp built on Tezos&lt;/li&gt;
+  &lt;li&gt;Continuity grant opportunity up to $5,000 for outstanding projects&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Submission Guidelines:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A submission with a working demo that demonstrates use of Tezos in some form or the other can defined as valid.&lt;/li&gt;
+  &lt;li&gt;Submit the GitHub link of your publicly visible source code of the hack on Devfolio. Broken links will disqualify the project from the judging process.&lt;/li&gt;
+  &lt;li&gt;There must be a clear description of the working of the hack in the README file. If the hack is live and can be tested, add the relevant links to that in the README file too.&lt;/li&gt;
+  &lt;li&gt;Create a short video demo of the hack and upload to YouTube or any video sharing site. Make sure that the person watching the video is fully able to understand what the bot does and what its functionalities are. Share the link on your Devfolio submission.&lt;/li&gt;
+  &lt;li&gt;Make sure you’ve mentioned Tezos in the Technologies Used section and selected the appropriate track while submitting the project.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Judging:&lt;/p&gt;
+
+&lt;p&gt;The judging will be done by the Tezos team based on submissions on Devfolio, post the hackathon. Awarding the prize will be at the Tezos India team’s discretion and subject to the hacks meeting a minimum bar of quality. Prizes will be announced and disbursed within a couple of weeks after the hackathon.&lt;/p&gt;
+
+&lt;p&gt;Learn more about the Tezos Track Prize &lt;a href=&quot;https://www.notion.so/devfolio/Tezos-Devfolio-Hackathon-Season-Prize-e90b6811b0df43e5a7dadf534fc000ff&quot;&gt;here&lt;/a&gt;. Sample projects using the Tezos blockchain can be found &lt;a href=&quot;https://tezosprojects.com/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;planet-filecoin&quot;&gt;Planet ‘Filecoin’&lt;/h3&gt;
+
+&lt;p&gt;Prizes up for grabs:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;₹20000 for best use of IPFS and/or Filecoin&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Submission Guidelines:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A submission with a working demo that demonstrates the use of IPFS and/or Filecoin in some form or the other can be defined as valid.&lt;/li&gt;
+  &lt;li&gt;Submit the GitHub link of your publicly visible source code of the hack on Devfolio. Broken links will disqualify the project from the judging process.&lt;/li&gt;
+  &lt;li&gt;There must be a clear description of the working of the hack in the README file. If the hack is live and can be tested, add the relevant links to that in the README file too.&lt;/li&gt;
+  &lt;li&gt;Create a short video demo on Devfolio itself while making the submission. Make sure that the person watching the video is fully able to understand what the bot does and what its functionalities are.&lt;/li&gt;
+  &lt;li&gt;Make sure you’ve mentioned IPFS and/or Filecoin in the Technologies Used section and selected the appropriate track while submitting the project.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Judging:&lt;/p&gt;
+
+&lt;p&gt;The judging will be done by the Protocol Labs team based on submissions on Devfolio, post the hackathon. Awarding the prize will be at the Protocol Labs team’s discretion and subject to the hacks meeting a minimum bar of quality. Prizes will be announced and disbursed within a couple of days after the hackathon.
+Learn more about the Filecoin Track Prize &lt;a href=&quot;https://devfolio.notion.site/Filecoin-Devfolio-Hackathon-Season-Prize-998fc3fe477e474086ae1d5ed1685203&quot;&gt;here&lt;/a&gt;. IPFS and Filecoin based projects can be found &lt;a href=&quot;https://docs.ipfs.io/concepts/usage-ideas-examples/&quot;&gt;here&lt;/a&gt; and &lt;a href=&quot;https://filecoin.io/blog/posts/30-days-130-projects-recognizing-new-ideas-to-power-web3/&quot;&gt;here&lt;/a&gt; respectively.&lt;/p&gt;
+
+&lt;h3 id=&quot;planet-alan-ai&quot;&gt;Planet ‘Alan AI’&lt;/h3&gt;
+
+&lt;p&gt;Prizes up for grabs:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;₹6000 for best integration of Alan AI. Hack must be live and voice command responsive.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Submission Guidelines:&lt;/p&gt;
+
+&lt;p&gt;For the Alan AI track, participants have to integrate Alan AI in their existing project in the hackathon. We have just 3 guidelines regarding the track prize including-&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;To qualify as eligible integration, UI must be responsive to voice commands.&lt;/li&gt;
+  &lt;li&gt;Project must use the Alan AI Slots method in the project.&lt;/li&gt;
+  &lt;li&gt;The project should be live.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;planet-rosenfeld&quot;&gt;Planet ‘Rosenfeld’&lt;/h3&gt;
+
+&lt;p&gt;Prizes up for grabs:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ebooks for Podium Winners.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;planet-bpb&quot;&gt;Planet ‘Bpb’&lt;/h3&gt;
+&lt;p&gt;Prizes up for grabs:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Ebooks of Python for Professionals, Cybersecurity Fundamentals, Neural Network for Beginners for Track winners&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;planet-geeksforgeeks&quot;&gt;Planet ‘GeeksforGeeks’&lt;/h3&gt;
+&lt;p&gt;Prizes up for grabs:&lt;/p&gt;
+
+&lt;p&gt;Winning Team (Any one of the listed options will be offered):&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;C++ST-Self-Paced Course worth Rs.3,000&lt;/li&gt;
+  &lt;li&gt;OS DBMS CN for SDE Interview Preparation worth Rs.3,000&lt;/li&gt;
+  &lt;li&gt;Data Structures and Algorithm Foundation-Self Paced worth Rs.3,500&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;1st Runner Up Team (Any one of the listed options will be offered):&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Fundamentals of Java and Java collections worth Rs. 2500&lt;/li&gt;
+  &lt;li&gt;DSA Using Python Programming-Self Paced worth Rs. 2500&lt;/li&gt;
+  &lt;li&gt;Android Development for Beginners-Self Paced worth Rs.2500&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;2nd runner Up Team (Any one of the listed options will be offered):&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Database Management System For Gate-Self Paced worth Rs.1500&lt;/li&gt;
+  &lt;li&gt;Complier Design for GATE-Self Paced worth Rs.1500&lt;/li&gt;
+  &lt;li&gt;Operating System for GATE-Self Paced worth Rs.1500&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Track Winning Team (Any one of the listed options will be offered):&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;CAT Mock Test Series&lt;/li&gt;
+  &lt;li&gt;TCS NQT Preparation Test Series&lt;/li&gt;
+  &lt;li&gt;Advanced Javascript-Self Paced&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;planet-digital-ocean&quot;&gt;Planet ‘Digital Ocean’&lt;/h3&gt;
+&lt;p&gt;Prizes up for grabs:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;A total of $2,000 in credits to the winning team(s) - these can be distributed only in sums of $100, $125, and $250, per winning team.&lt;/li&gt;
+  &lt;li&gt;$100, 60-day free trial for all attendees using this link/scanning the attached QR code: &lt;a href=&quot;https://try.digitalocean.com/developer-cloud&quot;&gt;https://try.digitalocean.com/developer-cloud&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;This code and promo are only accessible to new customers to DigitalOcean.&lt;/li&gt;
+      &lt;li&gt;Smart hack = if the winning teams sign up using this link that would mean $100 additional to the winning credits.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;planet-leading-learners&quot;&gt;Planet ‘Leading Learners’&lt;/h3&gt;
+&lt;p&gt;Prizes up for grabs:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Leading Learners Expansion Packs (valued at $100USD each) for top 3 teams &amp;amp; track winners of the event.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Now that Cody has given you the secrets to winning the special prizes, you’re good to go! Get aboard your spaceships and fire the engines!&lt;/p&gt;</content><author><name>[&quot;Stavan Kudche&quot;, &quot;Ishan Bhattacharya&quot;]</name></author><category term="hackverse3.0" /><summary type="html">Cody, on their space adventure, came across some amazing contests happening on other planets. The residents of the planets were intrigued by the idea of humans coming together and participating in HackVerse 3.0. Every planet decided to come up with tracks for all those participating and put up some really special prizes. Read along to find out more about the prizes, submission guidelines and judging criteria of each planet.</summary></entry><entry><title type="html">The Interstellar Guide to HackVerse 3.0</title><link href="/blog/interstellar-guide-to-hackverse" rel="alternate" type="text/html" title="The Interstellar Guide to HackVerse 3.0" /><published>2022-02-26T00:00:00+00:00</published><updated>2022-02-26T00:00:00+00:00</updated><id>/blog/interstellar-guide-to-hackverse</id><content type="html" xml:base="/blog/interstellar-guide-to-hackverse">&lt;p&gt;Eager. Excited. Nervous. Which one of them do you relate to? All of them? Relax, relax. I too relate to the first two. Yes, you guessed it right, it’s Cody again! I hope you’re all prepared for this thrilling expedition. What can you expect, you ask? Well…space debris, aliens, zero gravity maybe. I’m kidding! Let me run you through the entire process so that you have an idea of what lies in store for you.&lt;/p&gt;
+
+&lt;h3 id=&quot;0900-am&quot;&gt;09:00 AM&lt;/h3&gt;
+
+&lt;p&gt;Introduce yourself in the Discord channel and in the ‘Event Feed’ on the Hubilo platform. Filter the other introductions using the Introduction tag.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/intro-0900.jpeg&quot; alt=&quot;Introduction on Hublio&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Join in for the opening ceremony in the ‘Live Sessions’ section on Hubilo. You may use Q&amp;amp;A and live chat during the session.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/intro-hublio.jpeg&quot; alt=&quot;Introduction on Hublio&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Contact other participants and form teams of 2 or 3. Do this before 11:00 AM.&lt;/p&gt;
+
+&lt;h3 id=&quot;1100-am---1200-pm&quot;&gt;11:00 AM - 12:00 PM&lt;/h3&gt;
+
+&lt;p&gt;A check-in form will be shared where the details of your team and its members have to be filled in.&lt;/p&gt;
+
+&lt;h3 id=&quot;1200-pm&quot;&gt;12:00 PM&lt;/h3&gt;
+
+&lt;p&gt;Every team will be provided with their own ‘room’ for discussion. Use this ‘room’ for all private discussions with your team. It’s your personal space, no other team will be able to take a peek in.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/rooms-1200.jpeg&quot; alt=&quot;Rooms&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;0100-pm---0300-pm&quot;&gt;01:00 PM - 03:00 PM&lt;/h3&gt;
+
+&lt;p&gt;During these hours, mentors will be available in ‘rooms’. You may approach their ‘room’ to discuss your ideas with them.
+A moderator from the HackVerse team will be available to ensure a smooth experience, so do patiently wait your turn. Also, use this opportunity to fine-tune your ideas and get a better score.&lt;/p&gt;
+
+&lt;h3 id=&quot;0300-pm---0400-pm&quot;&gt;03:00 PM - 04:00 PM&lt;/h3&gt;
+
+&lt;p&gt;After your discussion with the mentor, your idea is good to go. It’s now time to put your idea into lines of code. Start coding and finish as much as possible so that you have more time to have fun later on.&lt;/p&gt;
+
+&lt;h3 id=&quot;0400-pm---0500-pm&quot;&gt;04:00 PM - 05:00 PM&lt;/h3&gt;
+
+&lt;p&gt;There will be a talk on ‘Banking Evolution, Usage of Blockchain’, the speaker being Ramprabhu T Kadambi, Senior Vice President, Commercial Corporate and Investment Banking Technology, Wells Fargo. This will be in the ‘Live Sessions’ section.
+You can ask your queries in the comments section and we will reply to them.&lt;/p&gt;
+
+&lt;h3 id=&quot;0500-pm---0600-pm&quot;&gt;05:00 PM - 06:00 PM&lt;/h3&gt;
+
+&lt;p&gt;Implement all the knowledge you have gained so far into your code. Use all those dormant brain cells that have been sleeping for way too long now.&lt;/p&gt;
+
+&lt;h3 id=&quot;0600-pm---0700-pm&quot;&gt;06:00 PM - 07:00 PM&lt;/h3&gt;
+
+&lt;p&gt;Break out of your shells and interact with the sponsors of HackVerse 3.0. Join their ‘rooms’ and gain knowledge of everything you are interested in.&lt;/p&gt;
+
+&lt;h3 id=&quot;0700-pm---0800-pm&quot;&gt;07:00 PM - 08:00 PM&lt;/h3&gt;
+
+&lt;p&gt;Things might be getting too hectic. Take a break. Join the ‘lounge’ section to discuss interesting topics and chill with other participants.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/lounge-1900.jpeg&quot; alt=&quot;Lounge&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;0800-pm---1000-pm&quot;&gt;08:00 PM - 10:00 PM&lt;/h3&gt;
+
+&lt;p&gt;Hours of ideation and coding, there might be doubts stacked up. Here is some advice - take expert advice. Judges will be available in ‘rooms’ to discuss all your doubts.&lt;/p&gt;
+
+&lt;h3 id=&quot;1100-pm---0100-am&quot;&gt;11:00 PM - 01:00 AM&lt;/h3&gt;
+
+&lt;p&gt;Time for mid-evaluation! Nothing to worry about. Just a friendly conversation about your project with a member of our tech team.
+Note- Be online during the evaluation. If you are not available, please give prior information to your SPoC so that the evaluation can be scheduled accordingly.&lt;/p&gt;
+
+&lt;h3 id=&quot;0100-am---0200-am&quot;&gt;01:00 AM - 02:00 AM&lt;/h3&gt;
+
+&lt;p&gt;All work and no play, we don’t want you to have a dull day. Head to the ‘Event feed’ to find games and fun events lined up for you. Join in and enjoy!&lt;/p&gt;
+
+&lt;h3 id=&quot;0800-am---0900-am&quot;&gt;08:00 AM - 09:00 AM&lt;/h3&gt;
+
+&lt;p&gt;Judges will be available in ‘rooms’ to discuss doubts. This is the last chance to get your doubts clarified, don’t let this opportunity slip away.&lt;/p&gt;
+
+&lt;h3 id=&quot;1200-pm-1&quot;&gt;12:00 PM&lt;/h3&gt;
+
+&lt;p&gt;Time’s up for coding! We do not entertain any commits after this. Any commit after 12:00 PM will be considered invalid.&lt;/p&gt;
+
+&lt;h3 id=&quot;1200-pm---0100-pm&quot;&gt;12:00 PM - 01:00 PM&lt;/h3&gt;
+
+&lt;p&gt;Make and submit your project video, a pretty presentation of fewer than five minutes explaining your project.
+Note- 01:00 PM is the Devfolio deadline. No submissions will be accepted after this.&lt;/p&gt;
+
+&lt;h3 id=&quot;0100-pm---0200-pm&quot;&gt;01:00 PM - 02:00 PM&lt;/h3&gt;
+
+&lt;p&gt;Hours of hard work and amazing results, now you have a chance to show off all you want. Contact your SPoC with the necessary details. They will help you set up exhibition booths where you can showcase your projects.&lt;/p&gt;
+
+&lt;h3 id=&quot;0200-pm---0500-pm&quot;&gt;02:00 PM - 05:00 PM&lt;/h3&gt;
+
+&lt;p&gt;Your projects are now open for all to see. You can exhibit them in the booths made for you in the ‘Project Expo’ section. Visit other booths to exchange knowledge and gain insights on various projects.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/assets/images/expo-1400.jpeg&quot; alt=&quot;Expo&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;0530-pm---0800-pm&quot;&gt;05:30 PM - 08:00 PM&lt;/h3&gt;
+
+&lt;p&gt;Congratulations on making it to the Top 10! Present your projects to our judges using a PowerPoint Presentation. There will be a live evaluation of your project on YouTube. Quite thrilling, right?&lt;/p&gt;
+
+&lt;h3 id=&quot;0830-pm&quot;&gt;08:30 PM&lt;/h3&gt;
+
+&lt;p&gt;Winners will be announced! The closing ceremony on ‘Live Sessions’ will mark the conclusion of the hackathon.&lt;/p&gt;
+
+&lt;p&gt;I’m ready for take-off, are you? The countdown begins! Ten. Nine. Eight…&lt;/p&gt;</content><author><name>[&quot;Stavan Kudche&quot;, &quot;Ishan Bhattacharya&quot;]</name></author><category term="hackverse3.0" /><summary type="html">Eager. Excited. Nervous. Which one of them do you relate to? All of them? Relax, relax. I too relate to the first two. Yes, you guessed it right, it’s Cody again! I hope you’re all prepared for this thrilling expedition. What can you expect, you ask? Well…space debris, aliens, zero gravity maybe. I’m kidding! Let me run you through the entire process so that you have an idea of what lies in store for you. 09:00 AM</summary></entry><entry><title type="html">HackVerse 3.0 Tracks and Sample Solution</title><link href="/blog/hackverse-tracks-and-sample-solutions" rel="alternate" type="text/html" title="HackVerse 3.0 Tracks and Sample Solution" /><published>2022-02-26T00:00:00+00:00</published><updated>2022-02-26T00:00:00+00:00</updated><id>/blog/hackverse-tracks-and-sample-solutions</id><content type="html" xml:base="/blog/hackverse-tracks-and-sample-solutions">&lt;p&gt;Hello there, I’m back! Oh don’t tell me you forgot me, Cody, your mascot for Hackverse 3.0.&lt;/p&gt;
+
+&lt;p&gt;Want to provide terrific solutions using all that you know, but have no idea in which direction to go?
+Don’t scratch your head all day long, just hop into my cosmic express and come along.
+Let’s explore together land, space and sea; I’ve planned to take you beyond The Andromeda Galaxy.
+There are opportunities everywhere, choose a track; there are hurdles there, provide a hack.
+Time to heal the world, roll up your sleeve; all you gotta do is Imagine, Believe, Achieve!&lt;/p&gt;
+
+&lt;p&gt;HackVerse 3.0 presents to you this year’s tracks:&lt;/p&gt;
+
+&lt;h2 id=&quot;track-1---cosmic-express&quot;&gt;TRACK 1 - CosMic Express&lt;/h2&gt;
+
+&lt;p&gt;Get up in the middle of a boring day, pack your bags and set out to explore the unknown, taking it for granted that the journey will be hassle-free. Or, chat with a friend and hatch plans to take down the likes of Meta and Google without bothering about the masked guy sitting in an unknown hideout and reading your chats. Sounds exciting, doesn’t it?&lt;/p&gt;
+
+&lt;p&gt;For this track, create anything which gives an insight on better communication and transportation of individuals. Better transportation could be with respect to speed or ease of travel, better communication could be between individuals, machines or even between an individual and machine, making communication faster and much safer (giving everyone the privacy they deserve).&lt;/p&gt;
+
+&lt;p&gt;The transport domain could include ideas such as a flying taxi at the Dubai expo and Uber elevate. This would require image segmentation to identify obstacles, navigation technology to manage air traffic, and various other components require software solutions. Hyperloop requires high speed communication to control brake and propulsion systems and uses RTOS (Real Time Operating Systems). There are software solutions that can be made in this domain. The digital communication industry is another fast evolving industry with new and creative technologies appearing every year. Voice commands and gesture recognition are finding more places in HCI (Human Computer Interaction). There are many fun and creative technologies like AR (Augmented Reality) that can be explored in this domain too.&lt;/p&gt;
+
+&lt;h2 id=&quot;track-2---andromedia&quot;&gt;TRACK 2 - AndroMedia&lt;/h2&gt;
+
+&lt;p&gt;‘Entertainment’, a term so vague that it could encapsulate almost any activity performed by humans, something so intertwined with all of our lifestyles. All of us have our comfort activities, something we do in our pyjamas at the end of a long day, be it playing games, reading books or watching web series. Most of these activities have now shifted online and require some sort of device or application catering to our entertainment needs.&lt;/p&gt;
+
+&lt;p&gt;Along this track, you would be building something that simply entertains, it could be a game, a mobile or PC application, maybe even virtual or augmented reality. The digital entertainment industry is getting bigger than ever. Microsoft has made the largest acquisition in gaming history by acquiring Activision Blizzard (worth 68.7 Billion USD).&lt;/p&gt;
+
+&lt;p&gt;In this field you can come up with innovative ways of entertainment. It can be games, gamified activities, taking your favourite radio-station online (podcast related softwares), infotainment, AI assisted theme selection based on your likes (for OS, browser, home lighting), etc.&lt;/p&gt;
+
+&lt;h2 id=&quot;track-3---plan-et-well&quot;&gt;TRACK 3 - Plan-et Well&lt;/h2&gt;
+
+&lt;p&gt;We have all learnt what sustainable development is in our textbooks, and now it is probably the single most important point to keep in mind before we carry on with any sort of development. We certainly are not at the healthiest stage with respect to Mother Earth, coming out of a severe pandemic with clouds of climate change looming over our heads since the last few decades. It would be safe to say we are at the most delicate time in the history of our planet.&lt;/p&gt;
+
+&lt;p&gt;For this track, you would be creating something that makes an environmental impact, which may be related to climate change, global warming or even making the best use of the resources on hand.&lt;/p&gt;
+
+&lt;p&gt;A rather ambitious instance of such a software would be an application which uses satellite images to capture illegal deforestation or wildfire. Another example of a software that will assist nature would be to maintain a “nature health index” for different pin codes on Earth, which is based on various factors like air quality, vegetation, and climate. This will help people to track the state of their environment and improve the conditions.&lt;/p&gt;
+
+&lt;h2 id=&quot;track-4---healthyself&quot;&gt;TRACK 4 - HealThyself&lt;/h2&gt;
+
+&lt;p&gt;The healthcare industry has turned out to be the most dependable and sought after industry during the pandemic. Therefore it comes as no surprise that the developments in the next few years will also be targeted towards the same. The frontline warriors, as they are rightly called, risked their lives to save ours, and it’s only fair if we supply them with the best technology to make their jobs a little easier.&lt;/p&gt;
+
+&lt;p&gt;If you choose to follow this track, you will be developing an application to improve the current scenario in the health care sector. It can be automation, or it can be an app which records all health parameters and suggests whether to check any particular body part. AI assisted diagnosis is something that can complement doctors and prevent certain diseases from going undetected.&lt;/p&gt;
+
+&lt;h2 id=&quot;track-5---hack-a-block&quot;&gt;TRACK 5 - Hack-a-block&lt;/h2&gt;
+
+&lt;p&gt;The year was 2013, and a new word ‘selfie’ made its way into every conversation, gathering and photo session eventually becoming the word of the year. The usage of the words ‘crypto’, ‘blockchain’ and ‘bitcoin’ have seen a similar exponential rise in the last few years. The impact of blockchain has been enormous, everywhere around the world and crypto currency is very truly on it’s way to becoming the ‘NEW NORMAL’.&lt;/p&gt;
+
+&lt;p&gt;For this track you will have to develop an application that uses blockchain technology, which you can further relate to cryptocurrency as well. Some implementations of blockchain other than cryptocurrency include Secure Electronic Voting System (Secure EVS).&lt;/p&gt;
+
+&lt;h2 id=&quot;track-6---xplor&quot;&gt;TRACK 6 - Xplor&lt;/h2&gt;
+
+&lt;p&gt;How barren would the world be without curious minds around us who are always exploring the endless possibilities to transform mundane things into something worth glancing at more than once! Everything around us was at some point ‘just another thing’ until someone went on an exploration trip to find the extra in the ordinary.&lt;/p&gt;
+
+&lt;p&gt;If you choose this track you would be working on a project which is along the lines of innovation and exploration of new possibilities from the existing technology.&lt;/p&gt;
+
+&lt;p&gt;HackVerse 3.0 promises you lots of learning and lots of fun. Good luck! Cody signing off, see ya!&lt;/p&gt;</content><author><name>[&quot;Stavan Kudche&quot;, &quot;Ishan Bhattacharya&quot;]</name></author><category term="hackverse3.0" /><summary type="html">Hello there, I’m back! Oh don’t tell me you forgot me, Cody, your mascot for Hackverse 3.0.</summary></entry><entry><title type="html">HackVerse 3.0: FUTURE IN SPACE</title><link href="/blog/hackverse-future-in-space" rel="alternate" type="text/html" title="HackVerse 3.0: FUTURE IN SPACE" /><published>2022-01-15T00:00:00+00:00</published><updated>2022-01-15T00:00:00+00:00</updated><id>/blog/hackverse-future-in-space</id><content type="html" xml:base="/blog/hackverse-future-in-space">&lt;p&gt;Beep, beep, beep … the sound of sirens kept amplifying with every beep. Cody slowly opened their eyes. Around them were creatures they had not seen before, and they looked at Cody with relieved and welcoming expressions. There were wires connecting Cody to very sophisticated machines, and it suddenly struck them that they were not where they were meant to be. Something about the creatures reminded them of their friends on Earth, but Cody realised that they were elsewhere.&lt;/p&gt;
+
+&lt;p&gt;Cody was told that they were found floating aimlessly in space and so were rescued and brought into this spaceship. Space? And a spaceship? Cody could not believe that they were with aliens! They tried to recollect what had happened.&lt;/p&gt;
+
+&lt;p&gt;Cody remembered the thrilling underwater expedition they had embarked upon during HackVerse 2.0. After that rousing quest, they had begun to swim back to the surface and put themself on automatic mode in order to get some rest. But the rest lasted a bit too long, long enough to cross the Earth’s atmosphere and take them to space! Cody was a bit embarrassed, but the prospect of another adventure thrilled them. They began to thoroughly enjoy their time on the spaceship, visiting different planets and learning more about their extraterrestrial friends.&lt;/p&gt;
+
+&lt;p&gt;“APPROACHING EARTH,” came a robotic voice, and a screen flashed the same. Cody could not control their excitement and was the first to alight from the spaceship to see their home planet.&lt;/p&gt;
+
+&lt;p&gt;What Cody witnessed was an entirely different world. High rise buildings with an interconnected framework of skywalks, cars that hovered around like drones, technological marvels that Cody had never imagined would be possible! Everything they came across was fascinating and facilitated a very user-friendly experience. Cody soon came across a cosy café. It had a pleasant ambience and was filled with people, but something seemed strange. The people there had peculiar headsets on and were sitting all by themselves. On enquiry, Cody found that it was a café where people met and talked to each other virtually using VR headsets. A feeling of sorrow began to creep in as Cody recollected the wonderful moments they had spent with their creators and buddies; they missed being with them. Where were they now, and why did the Earth seem so different?&lt;/p&gt;
+
+&lt;p&gt;On seeing Cody’s confusion, the aliens explained to them that this Earth was one of the alternative futures of the Earth that Cody had been on. To explain further, they decided to take them to a few other alternative futures of Earth.&lt;/p&gt;
+
+&lt;p&gt;This time, the spaceship landed near a half-built school. Broken benches and tables were scattered around what seemed like a playground. The environment was dusty, and the town seemed to be facing the aftermath of complete chaos. Cody observed a sense of timidity in the atmosphere. Everyone appeared to be minding their own business, yet there was a rush in their step. Cody could not make sense of anything they saw and got back into the spaceship to escape the disturbing world.&lt;/p&gt;
+
+&lt;p&gt;Soon, they came across another future Earth. On getting down from the spaceship, Cody found themself standing in front of a beautiful greenhouse filled with a wide variety of plants. There was a long queue outside and Cody was excited and curious to know why. But what they saw frightened them; the signboard at the entrance read “FRESH OXYGEN FOR $10 AN HOUR”. They went on to find that there were many such crowded oxygen booths all over the town. They were relieved that they did not need air to survive. But then what about their buddies, their HackVerse participants whom they loved so much? Would they have to be a part of this?&lt;/p&gt;
+
+&lt;p&gt;After returning to the spaceship, Cody thought deeply about what could be done to save the Earth from such terrifying futures. They realised that the future is what we make it. Whether a utopian future or a dystopian one, it is in our hands. It is made up of all the tiny steps we take now, in the present. Today’s ideas will build tomorrow’s world. The future will be what we build together.&lt;/p&gt;
+
+&lt;p&gt;And so … Cody is here to cheer you on as you embark upon your space adventure, on your journey to build our future.&lt;/p&gt;</content><author><name>[&quot;Stavan Kudche&quot;, &quot;Ishan Bhattacharya&quot;]</name></author><category term="hackverse3.0" /><summary type="html">Beep, beep, beep … the sound of sirens kept amplifying with every beep. Cody slowly opened their eyes. Around them were creatures they had not seen before, and they looked at Cody with relieved and welcoming expressions. There were wires connecting Cody to very sophisticated machines, and it suddenly struck them that they were not where they were meant to be. Something about the creatures reminded them of their friends on Earth, but Cody realised that they were elsewhere.</summary></entry><entry><title type="html">HackVerse 2.0: Behind The Scenes</title><link href="/blog/hackverse-behind-the-scenes" rel="alternate" type="text/html" title="HackVerse 2.0: Behind The Scenes" /><published>2021-12-06T00:00:00+00:00</published><updated>2021-12-06T00:00:00+00:00</updated><id>/blog/hackverse-behind-the-scenes</id><content type="html" xml:base="/blog/hackverse-behind-the-scenes">&lt;p&gt;With the second edition of HackVerse, HackVerse 2.0, done and dusted for the year, it’s time to look back on the event and reminisce on all the good and bad experiences.&lt;/p&gt;
+
+&lt;h2 id=&quot;lets-take-a-look-at-what-the-people-involved-in-making-it-such-a-huge-success-have-to-say&quot;&gt;Let’s take a look at what the people involved in making it such a huge success have to say!&lt;/h2&gt;
+
+&lt;p&gt;“I had an amazing experience being a part of the organizing team, especially because of the amazing teammates (both batchmates and juniors). Everyone was supportive of each other and that’s what really holds the team spirit high.” -Nishant Kumar, Operations Head, SR Head&lt;/p&gt;
+
+&lt;p&gt;“Organizing HackVerse 2.0 was an amazing experience. Personally, I got to work with people who are motivated to organize the event, manage huge tasks and be a part of planning one of the biggest online hackathons. As part of the team, we saw amazing ideas come to life and be implemented by the team. We wanted HackVerse to be one of a kind experience for the participants.” 
+-K Rahul Reddy, Lead Organizer&lt;/p&gt;
+
+&lt;p&gt;“HackVerse 2.0 happened under extraordinary circumstances. We had to deal with a lot of uncertainties and questions while planning for the event. Personally, I’ve learnt quite a bit about sponsor and vendor negotiations. The best part is the amazing feedback we’ve received from our participants regarding the event.”
+-Madhumitha Nara, Lead Organizer&lt;/p&gt;
+
+&lt;h2 id=&quot;the-way-hackverse-was-pulled-off-is-certainly-something-to-be-very-proud-of-but-behind-every-success-story-lies-a-great-deal-of-effort-lets-take-a-quick-trip-behind-the-scenes-to-peek-at-some-of-the-challenges-the-team-had-to-overcome&quot;&gt;The way HackVerse was pulled off is certainly something to be very proud of, but behind every success story lies a great deal of effort. Let’s take a quick trip behind the scenes to peek at some of the challenges the team had to overcome.&lt;/h2&gt;
+
+&lt;p&gt;“We did bring up a lot of companies for the marketing team with the help of my contacts, but really couldn’t turn them into potential sponsors. The companies which we approached, were not ready to sponsor as they were hit by the pandemic too.”
+-Laksh Sadhwani, Student Relations Team&lt;/p&gt;
+
+&lt;p&gt;“Typical shortcomings of an online event, everything is done in front of a computer, which drains out people, resulting in less casual interactions with everyone. However convenient it may be, organizing an online event can never come close to an offline event, where you talk to people (organizers, participants, caretakers, vendors, guests etc.), and not usernames/phone numbers.”
+-Nishant Kumar, Operations Head, SR Head&lt;/p&gt;
+
+&lt;p&gt;“One difficulty is, even after finalizing the theme, making the design and art style/aesthetic of the materials we make uniform. As there will be multiple people working on the designs, finding the right balance of maintaining restrictions/templates while giving creative freedom to get the best outcome. For online event, we did use a lot of new platforms for our events and publicity as well so, trying to maximize our presence through custom design like having our custom theme based banners on webinars, appropriate versions of our logos in different places was a challenge.”
+-Aditya Gourishetty, Media Head&lt;/p&gt;
+
+&lt;p&gt;“We had a lot of challenges, the biggest one was to connect with the team, keep everyone in the loop and organize the event online.Since the event was not offline, we did not have a lot of physical logistics to plan for, but this also came with a cost of not having good marketing points. We had to improvise to attract sponsors.”
+-K Rahul Reddy, Lead Organizer&lt;/p&gt;
+
+&lt;p&gt;“One of the biggest challenges is student engagement. Our mission was to empower student developers and support the existing community across India by providing them with a common platform. Online interaction has made it difficult although we’ve done the best we can, thanks to all the creative ideas and effort put in by the team.”
+-Madhumitha Nara, Lead Organizer&lt;/p&gt;
+
+&lt;p&gt;“Good experience, sadly it was online. Working with a team of people you haven’t met before is difficult. Faced issues in getting judges and speakers for the event. Verification of project was a bit difficult and so was judging. Keeping people engaged was an issue online compared to offline.”
+-Vybhav Pai, Tech team lead&lt;/p&gt;
+
+&lt;h2 id=&quot;despite-these-numerous-challenges-the-team-not-only-rose-to-the-challenge-but-blew-all-expectations-out-of-the-water-and-exceeded-them-and-so-lets-listen-to-the-advice-they-have-to-offer&quot;&gt;Despite these numerous challenges, the team not only rose to the challenge, but blew all expectations out of the water and exceeded them. And so, let’s listen to the advice they have to offer.&lt;/h2&gt;
+
+&lt;p&gt;“Work with friends/befriend the people you need to work with. More than the event itself, it’s about the experience of organizing such a big event. Have fun. Don’t be afraid to try things. More often than not, these mistakes while trying out new things won’t have any long term negative effects. So, chill out.”
+-Nishant Kumar&lt;/p&gt;
+
+&lt;p&gt;“Probably instead of keeping a single design for repetitive tasks, keeping a design which can be tweaked with ease to introduce some simple uniqueness. This would lessen the monotony atleast a little bit and draw some more attention. Also, very important- keeping a well structured,shared and editable backup of all the work you do. Decide upon a well defined plan and timeline for the work and stick to it. Also regarding media try to be a bit passionate about your work and reflect upon others’ opinion appropriately with relevance to your original idea.”
+-Aditya Gourishetty&lt;/p&gt;
+
+&lt;p&gt;“I’ve learnt from the team that people start working on an idea only when they truly believe in it. And in teams like HackVerse, every team member needs to understand why they are doing what they are doing. Keep in mind what is really important. It is very easy to lose track of what’s the most important part of something we are working on. Be it a meet, a collaboration, or the entire event, make sure you have the big picture in mind and keep steering the right way.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Plan well for the event timeline.&lt;/li&gt;
+  &lt;li&gt;Keep the work well distributed.&lt;/li&gt;
+  &lt;li&gt;Keep the entire team updated with what is happening.&lt;/li&gt;
+  &lt;li&gt;Make sure you take actions when needed. Do not hesitate to make bold moves.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;To the organizing team: Make sure you have a vision, a mission, and make sure that is what drives you. Without this, it will get difficult to manage and keep the team motivated.”
+-K Rahul Reddy&lt;/p&gt;
+
+&lt;p&gt;“Commit to the Hackathon; if nothing else, you’ll build something you’re proud of with other people who are passionate about developing. Set tangible goals and make plans to achieve them. What do you want your hackathon to do? How do you achieve them? Look back at the previous editions. Seek inspiration and learn from their mistakes :)&lt;/p&gt;
+
+&lt;p&gt;Wishing you great success.”
+-Madhumitha Nara&lt;/p&gt;
+
+&lt;h2 id=&quot;weve-read-through-the-guidance-they-have-to-give-to-the-future-teams-so-how-about-we-hop-over-to-ask-about-what-they-felt-were-the-best-and-worst-parts-of-the-event&quot;&gt;We’ve read through the guidance they have to give to the future teams, so how about we hop over to ask about what they felt were the best and worst parts of the event?&lt;/h2&gt;
+
+&lt;p&gt;“Best part - seeing the stuff you made at a lot of places and seen by so many people.Getting your designs materialized into merchandise which will be worn and used by a lot of people. Meeting with people with a lot of different ideas while coming up with even better ideas working as a team.
+Worst part - when sometimes things don’t go right and you have to compromise on ideas and publish or manage with unfinished and unsatisfactory work which will be seen by everyone as well.”
+-Aditya Gourishetty&lt;/p&gt;
+
+&lt;p&gt;“Best part: We had a lot of online collaborations and sponsor incentive ideas. We were able to attract a good number of participants. The submission evaluation and fair judging policies
+Worst:We did not have the plan for the D-Day ready in advance. We should have worked on it from the start. Online publicity + outreach: we should have started applications earlier, done more publicity.&lt;/p&gt;
+
+&lt;p&gt;Closing on logistics: The goodies logistics should have been planned before the event even happened. Pushing it to post event delayed a lot of things and caused unexpected issues.”
+-K Rahul Reddy&lt;/p&gt;
+
+&lt;p&gt;“The best part is the amazing feedback we’ve received from our participants regarding the event.”
+-Madhumitha Nara&lt;/p&gt;
+
+&lt;h2 id=&quot;and-finally-lets-ask-them-if-they-have-any-last-words-for-us&quot;&gt;And finally, let’s ask them if they have any last words for us!&lt;/h2&gt;
+
+&lt;p&gt;“There is no real hierarchy within the heads, we all tried maintaining things that way. But some decisions have to come from some team heads. Make sure everyone is inclusive and included.”
+-K Rahul Reddy&lt;/p&gt;
+
+&lt;p&gt;“Just do it, apply, meet new people and learn new stuff.&lt;/p&gt;
+
+&lt;p&gt;Start well in advance, work regularly, the final day will be here before you know it.”
+-Vybhav Pai&lt;/p&gt;
+
+&lt;p&gt;“The unexpected second wave of Covid wrecked havoc on our plans by cutting off contact with our vendors, leading to an inability to procure our orders. Even after shop reopened, getting back on track was a task easier said than done. Picking up and continuing months-old conversations was even more troublesome than starting new negotiations. And to ensure the best experience for all participants, we needed to work out the finer details properly. We’d like to offer a thank you for your patience and understanding thus far, and please rest assured that we will deliver on our promises as soon as possible!” -Team HackVerse&lt;/p&gt;</content><author><name>[&quot;Ramya Suresh Hegde&quot;]</name></author><category term="hackverse2.0" /><summary type="html">With the second edition of HackVerse, HackVerse 2.0, done and dusted for the year, it’s time to look back on the event and reminisce on all the good and bad experiences.</summary></entry><entry><title type="html">HackVerse Tracks and Sample Solutions</title><link href="/blog/hackverse-tracks" rel="alternate" type="text/html" title="HackVerse Tracks and Sample Solutions" /><published>2021-02-27T00:00:00+00:00</published><updated>2021-02-27T00:00:00+00:00</updated><id>/blog/hackverse-tracks</id><content type="html" xml:base="/blog/hackverse-tracks">&lt;p&gt;The HackVerse 2.0 mascot, Cody will be briefing you on the tracks of HackVerse.&lt;/p&gt;
+
+&lt;p&gt;Greetings, skipper! Welcome to the starboard of the HackVerse submarine! Today we shall be charting out the itinerary of your underwater voyage. You and your crewmates must use one of the following currents of the Arabian Sea to arrive at your destination.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/hackverse-tracks/1.jpg&quot; alt=&quot;nitk beach&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;track-1-lets-have-fun&quot;&gt;Track 1: Let’s Have Fun!&lt;/h2&gt;
+
+&lt;p&gt;Over the past few months, there’s been quite a bit of boredom &lt;em&gt;among us&lt;/em&gt;. The forces of gaming and coding must combine and speedrun through creating the ultimate entertainment application. Only then shall humanity be freed from the dungeons of dullness, and released into the land of leisure and excitement…&lt;/p&gt;
+
+&lt;p&gt;For this track, create or modify a piece of software dedicated to entertainment and fun. This would include things like building a new video game, reviving abandonware games by adding new features, and creating any fun application containing audio and/or video.&lt;/p&gt;
+
+&lt;p&gt;A rather ambitious instance of such a software would be an application which listens to a person singing, identifies the song, and plays the corresponding karaoke track matching the tempo of the singer in real time.&lt;/p&gt;
+
+&lt;h2 id=&quot;track-2-lets-connect&quot;&gt;Track 2: Let’s Connect!&lt;/h2&gt;
+
+&lt;p&gt;Staying connected online in the Era of the Lockdown has perhaps been the only thing keeping us going. Almost all forms of social interaction have been ported online, whether it’s Work From Home, online classes, or virtual freshers parties!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/hackverse-tracks/2.jpg&quot; alt=&quot;lets connect pawri meme&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Along this track, you’d be building a solution which acts as an online substitute for a conventionally offline social gathering or interaction.&lt;/p&gt;
+
+&lt;p&gt;A specimen of such a hack could be a dedicated alumni reunion application. Guess it’s about time I reconnected with my long-lost buccaneers from diving school!&lt;/p&gt;
+
+&lt;h2 id=&quot;track-3-lets-stay-fit&quot;&gt;Track 3: Let’s Stay Fit!&lt;/h2&gt;
+
+&lt;p&gt;Being a scuba diver, I must maintain my fitness at all times to explore the depths of the ocean. To keep a tab on my fitness levels, I’ve filled up my smart goggles to the brim with apps which monitor my daily activity.&lt;/p&gt;
+
+&lt;p&gt;If you choose to follow this track, you’d be creating a solution which shall help your fellow humans (and my fellow divers!) in maintaining their health.&lt;/p&gt;
+
+&lt;p&gt;An idea for a solution in this field could be an application which intelligently suggests a workout routine based on the health and fitness of the user. Gotta hustle for that muscle!&lt;/p&gt;
+
+&lt;h2 id=&quot;track-4-lets-go-contactless&quot;&gt;Track 4: Let’s Go Contactless!&lt;/h2&gt;
+
+&lt;p&gt;Before the pandemic, there were certain things which conventionally required human interaction. But thanks to the work of countless hackers across the globe, we now have contactless alternatives for dozens of things which required physical contact.&lt;/p&gt;
+
+&lt;p&gt;Drawing inspiration from this community, build a solution which embraces the idea of going contactless.&lt;/p&gt;
+
+&lt;p&gt;An instance for such a solution would be building a truly contactless biometric system, which replaces traditional fingerprint authentication. You could also perhaps build a contactless steering system for your submarine!&lt;/p&gt;
+
+&lt;h2 id=&quot;track-5-lets-stay-safe&quot;&gt;Track 5: Let’s Stay Safe!&lt;/h2&gt;
+
+&lt;p&gt;Defend your submarine against the Trojan Seahorse!&lt;/p&gt;
+
+&lt;p&gt;For this track, you’d be building a cybersecurity solution for securing a computer, server, electronic system, network, data, or similar from malicious attacks carried out by black hat seahorses.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/hackverse-tracks/3.jpg&quot; alt=&quot;hackerman meme&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A possible solution in this domain would be to create a secure chat application. Sounds like unchartered territory? Check out &lt;a href=&quot;https://youtu.be/bQLutm4hS6w&quot;&gt;this&lt;/a&gt; Make With HackVerse tutorial to build one!&lt;/p&gt;
+
+&lt;h2 id=&quot;track-6-lets-innovate&quot;&gt;Track 6: Let’s Innovate!&lt;/h2&gt;
+
+&lt;p&gt;The mother of humankind’s most important abilities, innovation has impacted essentially all domains of our life, whether it’s pulling off emergency all-nighters under an LED bulb, conserving fossil fuels by using electric cars, or viewing this blog post on a smartphone!&lt;/p&gt;
+
+&lt;p&gt;This track represents the boundlessness of the ocean. The grounds (or *&lt;em&gt;cough&lt;/em&gt;* the seas) are open for innovation. Come up with any innovative hack that could make your everyday life easier.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/hackverse-tracks/4.jpg&quot; alt=&quot;bill gates meme&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaking of making life easier during the age of online classes, an instance of an innovative solution could perhaps be building an MS Teams Auto-Attender!&lt;/p&gt;</content><author><name>[&quot;manas&quot;, &quot;niraj&quot;]</name></author><category term="hackverse2.0" /><summary type="html">The HackVerse 2.0 mascot, Cody will be briefing you on the tracks of HackVerse.</summary></entry><entry><title type="html">The Explorer’s Guide To HackVerse 2.0</title><link href="/blog/the-explorers-guide-to-hackverse-2" rel="alternate" type="text/html" title="The Explorer's Guide To HackVerse 2.0" /><published>2021-02-03T01:00:00+00:00</published><updated>2021-02-03T01:00:00+00:00</updated><id>/blog/the-explorers-guide-to-hackverse-2</id><content type="html" xml:base="/blog/the-explorers-guide-to-hackverse-2">&lt;pre&gt;
+You have opened this message.
+
+Your mission, should you choose to accept it, is to navigate the treacherous waters
+of the Arabian sea until you get to the HackVerse 2.0 submarine.
+Once you’re in there, you’re safe.
+
+--- Message transmission terminated.
+&lt;/pre&gt;
+
+&lt;p&gt;The HackVerse 2.0 mascot, Cody will guide you on your journey.&lt;/p&gt;
+
+&lt;p&gt;Hello HackVerse aspirants!
+I’m Cody, your favourite underwater mascot and I’m here to help you out on your exciting underwater voyage, from the dock of registration to the starboard of results. Hold your breath…&lt;/p&gt;
+
+&lt;h3 id=&quot;checkpoint-1&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;CHECKPOINT 1:&lt;/code&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;the-dock-of-registration&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;THE DOCK OF REGISTRATION&lt;/code&gt;&lt;/h3&gt;
+
+&lt;p&gt; &lt;br /&gt;
+To participate, form a team of 2 to 3 people.
+Can’t find teammates? Don’t worry, you can still register individually, and find other participants who have also individually registered later on to team up with.&lt;/p&gt;
+
+&lt;p&gt;Each aspirant, whether a member of a team or not, has to fill in the application form.&lt;/p&gt;
+
+&lt;p&gt;READY OR NOT? DIVE IN!&lt;/p&gt;
+
+&lt;h3 id=&quot;checkpoint-2-&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;CHECKPOINT 2 :&lt;/code&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;get-acquainted-with-a-deep-sea-creature-the-application-form&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;GET ACQUAINTED WITH A DEEP SEA CREATURE, THE APPLICATION FORM&lt;/code&gt;&lt;/h3&gt;
+
+&lt;p&gt; &lt;br /&gt;
+Go to the &lt;a href=&quot;https://hackverse.nitk.ac.in/&quot;&gt;HackVerse Website&lt;/a&gt;, and click the ‘Apply with Devfolio’ button.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/explorers-guide-to-hackverse/website.jpg&quot; alt=&quot;HackVerse 2.0 website&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then be directed to create an account/login on Devfolio.&lt;/p&gt;
+
+&lt;p&gt;Upon signing up/logging in, you will be directed to the HackVerse dashboard on Devfolio. Click ‘Continue to the application’ to go to the HackVerse application form. This application is what will be reviewed by the HackVerse team for the initial filtering of participants, so do fill it carefully!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/explorers-guide-to-hackverse/devfolio.jpg&quot; alt=&quot;Application Form&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are two sections of the application, one occupying the top half of the page, the other, the bottom. The first section pertains to the necessary paperwork - things required by us, from you, formally. There are five subsections in this section - About, Education, Experience, Links, and Contact. You can move to the next subsection only after completing the current subsection by clicking the ‘Next: &amp;lt;subsection&amp;gt;’ button. You can move back to a previous subsection any time by clicking the ‘Previous: &amp;lt;subsection&amp;gt;’ button.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/explorers-guide-to-hackverse/1.png&quot; alt=&quot;Application Step-1&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;checkpoint-3-&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;CHECKPOINT 3 :&lt;/code&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;youre-nearing-your-destination-flap-your-flippers-and-dive-deeper&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;YOU’RE NEARING YOUR DESTINATION! FLAP YOUR FLIPPERS AND DIVE DEEPER...&lt;/code&gt;&lt;/h3&gt;
+
+&lt;p&gt; &lt;br /&gt;
+Once you’ve completed the first section, move to the second section - the one where you give us an idea of your hacking expertise. Upon filling the fields in this section, tick the checkboxes at the bottom of the page to complete the application.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/explorers-guide-to-hackverse/2.png&quot; alt=&quot;Application Step-2&quot; /&gt;
+&lt;img src=&quot;assets/images/explorers-guide-to-hackverse/3.png&quot; alt=&quot;Application Step-3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At this point, there are two roads to choose from:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If you’re applying as a team, click the ‘Join or create team’ button. One of the team members would be required to create a team by providing a team name, and would then obtain a team code. The other team members would use this code to join the team.&lt;/li&gt;
+  &lt;li&gt;If you’re applying individually (and form a team with other individual participants later on), click the ‘Submit individual application’ button.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/explorers-guide-to-hackverse/4.png&quot; alt=&quot;Application Step-4&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;AH! THERE IT IS! THE ELUSIVE SUBMARINE.&lt;/p&gt;
+
+&lt;pre&gt;--- You have successfully completed your mission. Wait for further instructions ---&lt;/pre&gt;
+
+&lt;h3 id=&quot;checkpoint-4-&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;CHECKPOINT 4 :&lt;/code&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;enjoy-the-view-from-the-starboard&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;ENJOY THE VIEW FROM THE STARBOARD!&lt;/code&gt;&lt;/h3&gt;
+
+&lt;p&gt; &lt;br /&gt;
+The procedure of filtering applications will begin in a couple of weeks after the applications start rolling in. If you’re shortlisted for the hackathon, you will receive an email stating the good news from Devfolio.&lt;/p&gt;
+
+&lt;p&gt;A few days before the hackathon, a Discord server will be created, where you and the other shortlisted participants will be added. Here is where the fun starts - workshops, talks from eminent industry experts, and other fascinating events. During these interactions, participants who have registered individually would be required to team up with other individual registrants.&lt;/p&gt;
+
+&lt;h3 id=&quot;checkpoint-5-&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;CHECKPOINT 5 :&lt;/code&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;date-27th-february-2021&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;DATE: 27TH FEBRUARY 2021&lt;/code&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;the-hackverse-20-submarine-is-loaded-and-ready-to-explore-the-unseen&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;THE HACKVERSE 2.0 SUBMARINE IS LOADED AND READY TO EXPLORE THE UNSEEN...&lt;/code&gt;&lt;/h3&gt;
+
+&lt;p&gt; &lt;br /&gt;
+You and your team will battle it out with the other teams in a race to create the most unique hack. Leaders in the industry will be among those present to judge each team’s submission. Submissions will be open to the community, for promoting the ideas of impartiality and fairness.&lt;/p&gt;
+
+&lt;h3 id=&quot;checkpoint-6-&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;CHECKPOINT 6 :&lt;/code&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;date-28th-february-2021&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;DATE: 28TH FEBRUARY 2021&lt;/code&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;and-thus-the-last-unexplored-frontier-on-earth-was-conquered&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;..AND THUS, THE LAST UNEXPLORED FRONTIER ON EARTH WAS CONQUERED.&lt;/code&gt;&lt;/h3&gt;
+
+&lt;p&gt; &lt;br /&gt;
+Results will be announced a few days after the hackathon, followed by the Prize distribution ceremony and Hackerman felicitation.&lt;/p&gt;
+
+&lt;p&gt;Uncovering the secrets of the deep sea is no small task, and we hope that you will persevere until the end. Never stop dreaming; never stop exploring!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;IT’S TIME TO RISE TO THE SURFACE.&lt;/strong&gt;&lt;/p&gt;</content><author><name>[&quot;kriti&quot;, &quot;manas&quot;]</name></author><category term="hackverse2.0" /><summary type="html">You have opened this message.</summary></entry><entry><title type="html">HackVerse’20: Behind The Scenes</title><link href="/blog/behind-the-scenes" rel="alternate" type="text/html" title="HackVerse’20: Behind The Scenes" /><published>2020-12-17T11:30:00+00:00</published><updated>2020-12-17T11:30:00+00:00</updated><id>/blog/behind-the-scenes</id><content type="html" xml:base="/blog/behind-the-scenes">&lt;p&gt;HackVerse’20, the first edition of HackVerse (January 25-26, 2020) was the first in many regards. It was the first formal hackathon conducted by NITK Surathkal, and also the first to draw such a wide range of students from all across the nation.&lt;/p&gt;
+
+&lt;p&gt;With over 2,400+ applicants for the one-day hackathon, the HackVerse organizing team, filled with eager and passionate students, was prepped and primed to welcome all the participants, judges, speakers, and guests and make them feel at home.&lt;/p&gt;
+
+&lt;p&gt;The event involved keynotes and workshops by executives from renowned companies such as DigitalOcean, Elastic, Wells Fargo, as well as from startups like Devfolio. The hackathon offered cash prizes of over Rs 1.8 lakh to the top three teams, and other exciting rewards and prizes worth Rs 85 lakh to participants.&lt;/p&gt;
+
+&lt;p&gt;Now, instead of filling this article with paragraphs upon paragraphs of blandness, we shall explore and scout another way to get a glimpse into HackVerse’20. Let us hear from some of the people who helped make the largest student-run hackathon in India, HackVerse’20, come into existence.&lt;/p&gt;
+
+&lt;h2 id=&quot;what-was-the-inspiration-behind-hackverse&quot;&gt;What was the inspiration behind HackVerse?&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Mishal Shah&lt;/em&gt;: “NITK didn’t have any hackathon. The ones that were conducted were on a small scale, and thus a lot of students in NITK didn’t have any experience of how amazing and impactful hackathons could be. We wanted to change this. We also wanted to help the hacker community grow. More number of organized hackathons empowers the developer community.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Shreyas Shankar&lt;/em&gt;: “We wanted to start a college event on a national scale in the field of Computer Science, and what’s better than a hackathon where you can relax and code at the same time?”&lt;/p&gt;
+
+&lt;h2 id=&quot;the-planning-process&quot;&gt;The planning process…..?&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Namrata Ladda&lt;/em&gt;: “It took almost two semesters to plan. Going through different articles and experiences and taking references from other hackathons helped.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Sai Sushil&lt;/em&gt;: “The planning started at the college level initially. When we pitched it to the Dean (Students’ Welfare), his suggestion was to put together a nationwide hackathon.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Mishal Shah&lt;/em&gt;: “The planning process started in June 2019. We had a lot of meetings and discussions. It was complete synergy, with all the team members pitching in with inventive ideas and suggestions. We had attended various hackathons before and had a brief idea of what to do. We studied how some of the best hackathons in the world were organized and tried to incorporate those ideas in HackVerse. Our main focus was on hacker experience!”&lt;/p&gt;
+
+&lt;h2 id=&quot;expectations-and-hopes-from-hackverse20&quot;&gt;Expectations and hopes from HackVerse’20?&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Polkampally Keerthana&lt;/em&gt;: “We wanted HackVerse’20 to be phenomenal with a huge turnout. We especially wanted participants to have a good time and learn new things.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Mishal Shah&lt;/em&gt;: “Hackers coming to NITK and having a good time was my dream. I was hoping that they would network with other hackers and organizers, continue working on their idea after the hackathon and learn new and fascinating things. We wished to empower hackers through talks, networking, or building.”&lt;/p&gt;
+
+&lt;h2 id=&quot;the-moment-you-realized-that-what-you-had-built-was-coming-to-fruition&quot;&gt;The moment you realized that what you had built was coming to fruition…?&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Polkampally Keerthana&lt;/em&gt;: “The morning when participants started arriving for registration. It felt surreal when I thought about how a team of students had organised a nationwide hackathon.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Shreyas Shankar&lt;/em&gt;: “The moment we got to the mark we expected in sponsorship and became the hackathon with the highest number of registrations in India. I felt immense pride.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Mishal Shah&lt;/em&gt;: “The hackathon feedback! Reading the feedback from the judges, speakers, and hackers just blew my mind! Many of them pronounced that our hackathon was unique; there were things that they had never seen in all the previous hackathons that they had attended.”&lt;/p&gt;
+
+&lt;h2 id=&quot;what-kind-of-difficulties-did-you-face-in-organising-the-event&quot;&gt;What kind of difficulties did you face in organising the event?&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Sai Sushil&lt;/em&gt;: “For me, the biggest obstacle was not being from a CS/IT background. Nonetheless, I learned a lot and was able to contribute with the help of my teammates.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Polkampally Keerthana&lt;/em&gt;: “Every phase had its difficulties. From deciding the judges, selecting the participants to last-minute changes on the event day; they all seemed like insurmountable odds until we conquered them.”&lt;/p&gt;
+
+&lt;h2 id=&quot;something-new-that-you-learned-as-a-part-of-team-hackverse20&quot;&gt;Something new that you learned as a part of Team HackVerse’20?&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Mishal Shah&lt;/em&gt;: “Marketing, building an event from scratch and organising it, team management and communication skills. We also learned how to take risks and overcome challenges by organising this hackathon.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Adarsh Malapaka&lt;/em&gt;: “The saying ‘Too many cooks spoil the broth’ is true. Don’t let too many people be in charge of the same task. Establish a chain of command.”&lt;/p&gt;
+
+&lt;h2 id=&quot;what-was-the-best-part-of-the-event&quot;&gt;What was the best part of the event?&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Pavan Vachhani&lt;/em&gt;: “The satisfaction and sense of achievement we felt after the successful completion of the event.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Mehnaz Yunus&lt;/em&gt;: “Working with a great team and successfully pulling off an event of this scale.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Namrata Ladda&lt;/em&gt;: “Interacting with the participants, guests, and speakers were the best part.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Mishal Shah&lt;/em&gt;: “The mini-gaming arena. A lot of hackers loved it, there was always someone or the other playing there, and that made it worth all the effort we put in it.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Adarsh Malapaka&lt;/em&gt;: “Being able to connect with different companies, participants, and other professionals during the event.”&lt;/p&gt;
+
+&lt;h2 id=&quot;what-in-your-opinion-made-hackverse20-a-success&quot;&gt;What, in your opinion, made HackVerse’20 a success?&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Namrata Ladda&lt;/em&gt;: “The team’s desire to host the event in the best way possible, and the support received from the faculty advisors of HackVerse (Dr. Anand Kumar M, Dr. Sowmya Kamath, Dr. Suprabha K R), Diamond Jubilee Chairman (Dr. S. M. Murigendrappa Sir), Dean SW (Dr. Jagannath Nayak), Director (Prof. K Uma Maheshwar Rao), BoG Chairman (Dr. K Balaveera Reddy) and the whole of NITK Administration with all the help needed to set up the event truly made it possible.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Sai Sushil&lt;/em&gt;: “Support and recognition from all over India. And the fact that we all worked day and night, contributing in any way we could.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Adarsh Malapaka&lt;/em&gt;: “I believe that HackVerse’20 was a success because we made no compromise on the technical side of the event, despite the inauguration ceremony and webinars eating into the hacking time. Secondly, we took good care of our participants with the SPoCs (Student Point of Contact) and the PR (Public Relations) team doing a fantastic job of being approachable, proactive and making the participants feel comfortable.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Polkampally Keerthana&lt;/em&gt;: “Teamwork, co-operation, delegating tasks, taking up responsibility, working hard, and not giving up at any point.”&lt;/p&gt;
+
+&lt;h2 id=&quot;what-advice-would-you-give-to-a-student-applying-for-hackverse&quot;&gt;What advice would you give to a student applying for HackVerse?&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Akash&lt;/em&gt;: “Hackathons are an excellent opportunity to meet brilliant and tech-savvy people from all walks of life; build your profile as a hacker, and create something extraordinary that will improve lives. Don’t miss out on this opportunity.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Shreyas Shankar&lt;/em&gt;: “My advice would be to have a good number of open source contributions, high-quality and legitimate projects, a well-defined Readme on Github, previous hackathon experiences and a solid, innovative idea which appeals to the reviewer.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Polkampally Keerthana&lt;/em&gt;: “Be genuine with your resume and the questions asked during the application.”&lt;/p&gt;
+
+&lt;h2 id=&quot;what-advice-would-you-give-to-someone-organising-an-event-like-hackverse&quot;&gt;What advice would you give to someone organising an event like HackVerse?&lt;/h2&gt;
+
+&lt;p&gt;&lt;em&gt;Adarsh Malapaka&lt;/em&gt;: “It might sound banal, but ‘where there’s a will, there’s a way’ is probably the most golden advice for organising an event, however big or small. Ensure that the team is firmly committed and excited about the prospect of having this event. If you want the pearl from the ocean, you can’t merely caress the waves and rush back to the sands of safety. You have to dive deep, being dynamic to potential threats.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Mehnaz Yunus&lt;/em&gt;: “Be an early bird. Try to do everything ahead of time. Get good judges, confirm them as soon as possible. Set up good judging criteria and a plagiarism checking system, if possible. Develop a social media presence. Be prompt in responding to queries from participants and keep their data safe.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Sai Sushil&lt;/em&gt;: “Push your boundaries, explore new possibilities and never stop making it better even when it seems good enough.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Pavan&lt;/em&gt;: “Think thoroughly about the timeline of the event. Count even the smallest things.”&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Polkampally Keerthana&lt;/em&gt;: “Do not panic. Just give it some time, come back and try again. And most importantly, organize your thoughts. Be clear about your goals.”&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;And that, folks, is how we made HackVerse.&lt;/p&gt;
+
+&lt;p&gt;Now that you’ve got an idea of how we did it, it’s time to spread the word. Nothing promotes growth like competition, and hackathons bring out the best in us, from our team building and management skills to ingenuity.&lt;/p&gt;
+
+&lt;p&gt;Startups regularly get developed in hackathons and wind up getting millions in funding and launch lucrative careers - Twitter is living proof. We deemed it our duty to provide that challenge for students, on the Diamond Jubilee Celebrations of NITK, to promote our hackathon as well as the coding culture of our campus.&lt;/p&gt;
+
+&lt;p&gt;That is how the story ends… or does it?&lt;/p&gt;</content><author><name>[&quot;shumbul&quot;, &quot;kriti&quot;, &quot;feyaz&quot;]</name></author><category term="hackverse" /><summary type="html">HackVerse’20, the first edition of HackVerse (January 25-26, 2020) was the first in many regards. It was the first formal hackathon conducted by NITK Surathkal, and also the first to draw such a wide range of students from all across the nation.</summary></entry><entry><title type="html">Under the Coding Hood Hackverse 2020</title><link href="/blog/under-the-coding-hood-hackverse-2020" rel="alternate" type="text/html" title="Under the Coding Hood Hackverse 2020" /><published>2020-02-02T01:00:00+00:00</published><updated>2020-02-02T01:00:00+00:00</updated><id>/blog/under-the-coding-hood-hackverse-2020</id><content type="html" xml:base="/blog/under-the-coding-hood-hackverse-2020">&lt;p&gt;At NIT-K, Surathkal on 25th and 26th January&lt;/p&gt;
+
+&lt;p&gt;Sometime in October, &lt;a href=&quot;https://medium.com/u/dca2c8e6c7fd&quot;&gt;Utkarsh Raj&lt;/a&gt; from CUSAT asks if I am interested to go for a hackathon listed on Devfolio called &lt;a href=&quot;hackverse&quot;&gt;HackVerse&lt;/a&gt;. This was a few weeks after &lt;a href=&quot;https://hackinout.co&quot;&gt;InOut Hackathon&lt;/a&gt; and I knew for a fact (from that experience) that Devfolio Hackathons are on a whole other spectrum level of awesomeness. So I agreed and together (along with his classmate Ravi Jyothi) we registered as &lt;em&gt;Team Fortitude&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;Our initial idea was to develop a chapter summarizer application to help students intake big volumes of textbook content in daily dosages thus gaining constant momentum. However, Utkarsh had gone for HackOff Hackathon at VIT, Vellore (another Devfolio Hackathon) and tried this idea — which was not quite well received as an existing solutions is doing quite well. Thus we continued brainstorming until we settled for the following idea (spoiler: We changed this idea during the hackathon):&lt;/p&gt;
+
+&lt;h3 id=&quot;idea-1&quot;&gt;Idea #1&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Most of us are clueless about the options we have at college to up skill oneself, the choices one has to make as a result and the effect it has in your long term plan of molding your career. Most of the times it results in a hit-and-trial situation where the lucky one’s find gold while most of the rest and filled with regret and confusion by the end of their time in college.&lt;/p&gt;
+
+  &lt;p&gt;So to provide means to understand the scope and the paths forward, I thought of developing &lt;a href=&quot;https://en.wikipedia.org/wiki/Choose_Your_Own_Adventure&quot;&gt;‘Choose Your Own Adventure’&lt;/a&gt; game where the user plays a simulation where we ask questions and based on the choices they make, their points change and in the end of 4 years of simulation, we contrast and see which alumni best matches with the path she chose — and thus connect the two. If dissatisfied, the user can play the game again this time with different options and see what other endings you get.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We met up a week before at CUSAT to discuss about the same. I decided to use &lt;a href=&quot;https://twinery.org/&quot;&gt;Twine&lt;/a&gt; to design the story, Ravi said he will look into &lt;a href=&quot;https://flutter.dev/&quot;&gt;Flutter&lt;/a&gt; App Development for the front end, and Utkarsh said he will take care of the backend using &lt;a href=&quot;https://firebase.google.com/&quot;&gt;Firebase&lt;/a&gt;. However, that week went past quite fast and we all could not find the time to set up our systems suitably.&lt;/p&gt;
+
+&lt;h3 id=&quot;friday&quot;&gt;Friday&lt;/h3&gt;
+
+&lt;p&gt;I make it to Ernakulam South railway station. Ameen, Rindish and Afnan join in a while. We departed around 8.20 PM. Utkarsh and Ravi boarded from Aluva half an hour later. We discussed a while about the ideas to include in our product. After dinner, we went to sleep.&lt;/p&gt;
+
+&lt;h3 id=&quot;saturday&quot;&gt;Saturday&lt;/h3&gt;
+
+&lt;p&gt;Devdutt wakes me up at Suratkal. Apparently we reached 30 minutes early. Much to my surprise, Abhishek from CET is also there. Well, hackathon already looks promising.&lt;/p&gt;
+
+&lt;p&gt;We took two autos and reached the college by 5.45 AM. Nishant our point of contact was already at the front gate and in good spirits. We were escorted to our hostel where we freshened up and got some sleep. Around 8.30 AM we headed off to the venue — Lecture Complex Hall.&lt;/p&gt;
+
+&lt;p&gt;We got to meet the other folks from my college who also came for the hackathon. After breakfast, we chilled for a while until the opening ceremony.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The inaugural ceremony was spectacular. Notable folks from the industry shared their words of wisdom to the participants on how to be industry ready through hackathons and other competitions.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Professor Reddy commended the organizing team for coming up with the name of &lt;em&gt;HackVerse&lt;/em&gt; for verse meant to condense a deep message in a simple manner — much as what this hackathon hopes to see in the projects to be built in the time to come. He explained how time is finite thus weekend hacks is a great way to maximize and learn.&lt;/li&gt;
+  &lt;li&gt;The CTO of Well Fargo explained how hackathons challenge participants to adopt and find potential of new technologies in a world of great uncertainty, high stakes and opportunity cost. He believes a much needed skill for the industry is to have people who are collaborative, creative and capable of delivering results under pressure. The success of your venture lies not merely in the proof concept but in finding its place in the real world market.&lt;/li&gt;
+  &lt;li&gt;Dr. Divakar, the director of Google Cloud India delivered a very intriguing speech that struck a chord with most students. He beleives that 3 buckets exists: (#1) Industry, (#2) Tech People, and (#3) Students. The industry is slow and fearful while students are fast and fearless. For students to transition in to Tech People profile means to work at a place that scales up like an enterprise and innovates like a startup. The industry focuses on User needs. He shared 3 critical principles: &amp;lt;#1&amp;gt; What got you here won’t get you there. You need to continuously be learning. &amp;lt;#2&amp;gt; Understand whether you are running or sprinting in this marathon of a journey we take in the world of tech. Patience is important. &amp;lt;#3&amp;gt; Seek knowledge, and money will follow. Find a purpose worth pursuing and people will want your expertise to bring out the best results.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Extraordinary people are ordinary people with extra thinking&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;img src=&quot;./assets/images/under-coding-hood/lhcc.JPG&quot; alt=&quot;LHC-C Seminar Hall&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After the inaugural ceremony, the following tech talk sessions were there:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Aravind from Elastic Search&lt;/strong&gt; explained how search plays a critical role in multiple sectors. The Elastic stack includes Kibana, Elastic Search, Beats, and Logstash. To learn more about it, click &lt;a href=&quot;http://ela.st/search&quot;&gt;here&lt;/a&gt; and &lt;a href=&quot;https://ela.st/community-trial&quot;&gt;here&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Containers by Saurabh Gupta&lt;/strong&gt;: The speaker from Digital Ocean explained the transition from Devs to Ops as two units to a combined entity called DevOps to handle Deployment fails. Implementing is not the same as evaluating, especially when a community is lacking. We must give time for tech to mature. Startups are the first adopters but MNCs wait to see results.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The ones who climb up the ladder are those who pick up new skills very quick and go beyond the comfort zone.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Technologists in the Financial Sector, by Bharat, CTO, Wells Fargo&lt;/strong&gt;: He explained how Behavioral Banking takes different approaches for different people. It takes a risk model to assess the potential failure cases in transactions. He went on to talk about &lt;a href=&quot;https://www.investopedia.com/terms/h/high-frequency-trading.asp&quot;&gt;High Frequency Trading&lt;/a&gt; where nanosecond variations play a big factor in the success of a trade.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Work in an area that excites you. Put your best in your work.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;During these talks, I was introduced to a new concept: &lt;strong&gt;Developer Experience&lt;/strong&gt;! DX is for developers what UX is for Users :)&lt;/p&gt;
+
+&lt;p&gt;I skipped taking notes for a few talk sessions so apologies for the incomplete list. The talks concluded by 3.45 PM I believe. The organizers informed us of the judging criteria factors:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Originality&lt;/li&gt;
+  &lt;li&gt;Business Opportunity/ Social relevance&lt;/li&gt;
+  &lt;li&gt;Innovation&lt;/li&gt;
+  &lt;li&gt;Novelty&lt;/li&gt;
+  &lt;li&gt;Time to market&lt;/li&gt;
+  &lt;li&gt;Potential&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Personally, our idea may seem new, yet it won’t stand out when compared to the amazing machine learning based projects that other teams built. Nevertheless, we were here to have a start, and that I am certain we will achieve.&lt;/p&gt;
+
+&lt;p&gt;Hackathon started shortly, and we moved to classroom to set up our device.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;We had a discussion about the idea of UniSim but soon realized that it is not good enough considering the fact that it is a one-time-use app. We started to stop seeing value in it. Instead, when I spoke about the idea of &lt;em&gt;Cirgle&lt;/em&gt; by Gopi Chetan, Utkarsh sounded excited and thus we decided to pivot at 10 PM.&lt;/p&gt;
+
+&lt;h3 id=&quot;idea-2&quot;&gt;Idea #2&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;There is no one good social network for programmers that encourages in person meetings. Sure, Reddit forums, facebook groups, DevRant try to achieve this yet we found a few challenges that must be tackled first. In our idea, we imagined to use the 6 stage model to set barriers, use geographical location to provide city based news feeds on what projects others are working and connect them on the basis of experience level as well as the tech stack.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I agree the idea lacks mention-worthy originality but we could see the potential it held if implemented right in the real world.&lt;/p&gt;
+
+&lt;p&gt;Ravi and Utkarsh tried to work on the Firebase backend while I tried to learn flutter. Setting it up took a couple of hours itself. They considered making PWA (Progressive Web App) when a flutter app seemed unrealistic within the time frame. Finally we tried to get a basic website done using HTML and CSS.&lt;/p&gt;
+
+&lt;p&gt;I took break quite often to play chess and talk to others. I had a lot of fun learning concepts from Arun, a student from CET who has a very deep manner of thinking. Yet at times I felt lonely as I was unable to get the work done in time. Thankfully, the volunteers offered refreshments and I played quite a bit of music to bridge the gaps.&lt;/p&gt;
+
+&lt;p&gt;I slept for 3 hours from 4 AM to 7 AM. The other two slept very little to ensure we had results to show. I commend their spirit.&lt;/p&gt;
+
+&lt;iframe src=&quot;https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fspeakerdeck.com%2Fplayer%2Fa30c278da3df4c9a93dd2678c36220c0&amp;amp;display_name=Speaker+Deck&amp;amp;url=https%3A%2F%2Fspeakerdeck.com%2Fjohnover_board%2Fcirgle-hackverse-2020&amp;amp;image=https%3A%2F%2Fspeakerd.s3.amazonaws.com%2Fpresentations%2Fa30c278da3df4c9a93dd2678c36220c0%2Fslide_0.jpg%3F596010&amp;amp;key=a19fcc184b9711e1b4764040d3dc5c07&amp;amp;type=text%2Fhtml&amp;amp;schema=speakerdeck&quot; allowfullscreen=&quot;&quot; title=&quot;Cirgle | Hackverse 2020&quot; class=&quot;cp t u jb ak&quot; scrolling=&quot;auto&quot; width=&quot;710&quot; height=&quot;399&quot; frameborder=&quot;0&quot;&gt;&lt;/iframe&gt;
+
+&lt;h3 id=&quot;sunday&quot;&gt;Sunday&lt;/h3&gt;
+
+&lt;p&gt;Being the republic day, we were taken to witness the march past in the campus by the NSS and students. It was really well done but unfortunately I did not have my phone around to take photographs.&lt;/p&gt;
+
+&lt;p&gt;Back at the venue, we tinkered bit by bit. These are the screenshots of what we created in the end.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./assets/images/under-coding-hood/cirgle-1.JPG&quot; alt=&quot;Cirgle&quot; /&gt;
+&lt;img src=&quot;./assets/images/under-coding-hood/cirgle-2.JPG&quot; alt=&quot;Cirgle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Denver from Devfolio reviewed our work. While he did not seem impressed, he did encourage us to continue working on it in the time to come.&lt;/p&gt;
+
+&lt;p&gt;Here are a few pictures from the event&amp;gt; &lt;a href=&quot;https://photos.app.goo.gl/ZUnBBBr9nvJESYAa8&quot;&gt;Click here&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;After dinner, we took a train to Manglore and then waited till 3 AM for the train. Had some quality time with friends.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./assets/images/under-coding-hood/station.JPG&quot; alt=&quot;Station&quot; /&gt;
+&lt;img src=&quot;./assets/images/under-coding-hood/judging.jpeg&quot; alt=&quot;Judging&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Originally published at &lt;a href=&quot;https://medium.com/@joelvzach/under-the-coding-hood-hackverse-2020-aab616200a06&quot;&gt;https://medium.com/@joelvzach/under-the-coding-hood-hackverse-2020-aab616200a06&lt;/a&gt; on February 2, 2020&lt;/em&gt;&lt;/p&gt;</content><author><name>[&quot;joel&quot;]</name></author><category term="hackathons" /><summary type="html">At NIT-K, Surathkal on 25th and 26th January</summary></entry></feed>

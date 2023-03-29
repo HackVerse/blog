@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
+  <link href="/blog/tag/hackverse2.0/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="/blog/" rel="alternate" type="text/html" />
+  <updated>2023-03-29T16:45:30+00:00</updated>
+  <id>/blog/tag/hackverse2.0/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">HackVerse Blog | </title>
+  
+
+  
+    <subtitle>Hack It, Till You Crack it!</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">HackVerse 2.0: Behind The Scenes</title>
+      <link href="/blog/hackverse-behind-the-scenes" rel="alternate" type="text/html" title="HackVerse 2.0: Behind The Scenes" />
+      <published>2021-12-06T00:00:00+00:00</published>
+      <updated>2021-12-06T00:00:00+00:00</updated>
+      <id>/blog/hackverse-behind-the-scenes</id>
+      <content type="html" xml:base="/blog/hackverse-behind-the-scenes">&lt;p&gt;With the second edition of HackVerse, HackVerse 2.0, done and dusted for the year, it’s time to look back on the event and reminisce on all the good and bad experiences.&lt;/p&gt;
+
+&lt;h2 id=&quot;lets-take-a-look-at-what-the-people-involved-in-making-it-such-a-huge-success-have-to-say&quot;&gt;Let’s take a look at what the people involved in making it such a huge success have to say!&lt;/h2&gt;
+
+&lt;p&gt;“I had an amazing experience being a part of the organizing team, especially because of the amazing teammates (both batchmates and juniors). Everyone was supportive of each other and that’s what really holds the team spirit high.” -Nishant Kumar, Operations Head, SR Head&lt;/p&gt;
+
+&lt;p&gt;“Organizing HackVerse 2.0 was an amazing experience. Personally, I got to work with people who are motivated to organize the event, manage huge tasks and be a part of planning one of the biggest online hackathons. As part of the team, we saw amazing ideas come to life and be implemented by the team. We wanted HackVerse to be one of a kind experience for the participants.” 
+-K Rahul Reddy, Lead Organizer&lt;/p&gt;
+
+&lt;p&gt;“HackVerse 2.0 happened under extraordinary circumstances. We had to deal with a lot of uncertainties and questions while planning for the event. Personally, I’ve learnt quite a bit about sponsor and vendor negotiations. The best part is the amazing feedback we’ve received from our participants regarding the event.”
+-Madhumitha Nara, Lead Organizer&lt;/p&gt;
+
+&lt;h2 id=&quot;the-way-hackverse-was-pulled-off-is-certainly-something-to-be-very-proud-of-but-behind-every-success-story-lies-a-great-deal-of-effort-lets-take-a-quick-trip-behind-the-scenes-to-peek-at-some-of-the-challenges-the-team-had-to-overcome&quot;&gt;The way HackVerse was pulled off is certainly something to be very proud of, but behind every success story lies a great deal of effort. Let’s take a quick trip behind the scenes to peek at some of the challenges the team had to overcome.&lt;/h2&gt;
+
+&lt;p&gt;“We did bring up a lot of companies for the marketing team with the help of my contacts, but really couldn’t turn them into potential sponsors. The companies which we approached, were not ready to sponsor as they were hit by the pandemic too.”
+-Laksh Sadhwani, Student Relations Team&lt;/p&gt;
+
+&lt;p&gt;“Typical shortcomings of an online event, everything is done in front of a computer, which drains out people, resulting in less casual interactions with everyone. However convenient it may be, organizing an online event can never come close to an offline event, where you talk to people (organizers, participants, caretakers, vendors, guests etc.), and not usernames/phone numbers.”
+-Nishant Kumar, Operations Head, SR Head&lt;/p&gt;
+
+&lt;p&gt;“One difficulty is, even after finalizing the theme, making the design and art style/aesthetic of the materials we make uniform. As there will be multiple people working on the designs, finding the right balance of maintaining restrictions/templates while giving creative freedom to get the best outcome. For online event, we did use a lot of new platforms for our events and publicity as well so, trying to maximize our presence through custom design like having our custom theme based banners on webinars, appropriate versions of our logos in different places was a challenge.”
+-Aditya Gourishetty, Media Head&lt;/p&gt;
+
+&lt;p&gt;“We had a lot of challenges, the biggest one was to connect with the team, keep everyone in the loop and organize the event online.Since the event was not offline, we did not have a lot of physical logistics to plan for, but this also came with a cost of not having good marketing points. We had to improvise to attract sponsors.”
+-K Rahul Reddy, Lead Organizer&lt;/p&gt;
+
+&lt;p&gt;“One of the biggest challenges is student engagement. Our mission was to empower student developers and support the existing community across India by providing them with a common platform. Online interaction has made it difficult although we’ve done the best we can, thanks to all the creative ideas and effort put in by the team.”
+-Madhumitha Nara, Lead Organizer&lt;/p&gt;
+
+&lt;p&gt;“Good experience, sadly it was online. Working with a team of people you haven’t met before is difficult. Faced issues in getting judges and speakers for the event. Verification of project was a bit difficult and so was judging. Keeping people engaged was an issue online compared to offline.”
+-Vybhav Pai, Tech team lead&lt;/p&gt;
+
+&lt;h2 id=&quot;despite-these-numerous-challenges-the-team-not-only-rose-to-the-challenge-but-blew-all-expectations-out-of-the-water-and-exceeded-them-and-so-lets-listen-to-the-advice-they-have-to-offer&quot;&gt;Despite these numerous challenges, the team not only rose to the challenge, but blew all expectations out of the water and exceeded them. And so, let’s listen to the advice they have to offer.&lt;/h2&gt;
+
+&lt;p&gt;“Work with friends/befriend the people you need to work with. More than the event itself, it’s about the experience of organizing such a big event. Have fun. Don’t be afraid to try things. More often than not, these mistakes while trying out new things won’t have any long term negative effects. So, chill out.”
+-Nishant Kumar&lt;/p&gt;
+
+&lt;p&gt;“Probably instead of keeping a single design for repetitive tasks, keeping a design which can be tweaked with ease to introduce some simple uniqueness. This would lessen the monotony atleast a little bit and draw some more attention. Also, very important- keeping a well structured,shared and editable backup of all the work you do. Decide upon a well defined plan and timeline for the work and stick to it. Also regarding media try to be a bit passionate about your work and reflect upon others’ opinion appropriately with relevance to your original idea.”
+-Aditya Gourishetty&lt;/p&gt;
+
+&lt;p&gt;“I’ve learnt from the team that people start working on an idea only when they truly believe in it. And in teams like HackVerse, every team member needs to understand why they are doing what they are doing. Keep in mind what is really important. It is very easy to lose track of what’s the most important part of something we are working on. Be it a meet, a collaboration, or the entire event, make sure you have the big picture in mind and keep steering the right way.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Plan well for the event timeline.&lt;/li&gt;
+  &lt;li&gt;Keep the work well distributed.&lt;/li&gt;
+  &lt;li&gt;Keep the entire team updated with what is happening.&lt;/li&gt;
+  &lt;li&gt;Make sure you take actions when needed. Do not hesitate to make bold moves.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;To the organizing team: Make sure you have a vision, a mission, and make sure that is what drives you. Without this, it will get difficult to manage and keep the team motivated.”
+-K Rahul Reddy&lt;/p&gt;
+
+&lt;p&gt;“Commit to the Hackathon; if nothing else, you’ll build something you’re proud of with other people who are passionate about developing. Set tangible goals and make plans to achieve them. What do you want your hackathon to do? How do you achieve them? Look back at the previous editions. Seek inspiration and learn from their mistakes :)&lt;/p&gt;
+
+&lt;p&gt;Wishing you great success.”
+-Madhumitha Nara&lt;/p&gt;
+
+&lt;h2 id=&quot;weve-read-through-the-guidance-they-have-to-give-to-the-future-teams-so-how-about-we-hop-over-to-ask-about-what-they-felt-were-the-best-and-worst-parts-of-the-event&quot;&gt;We’ve read through the guidance they have to give to the future teams, so how about we hop over to ask about what they felt were the best and worst parts of the event?&lt;/h2&gt;
+
+&lt;p&gt;“Best part - seeing the stuff you made at a lot of places and seen by so many people.Getting your designs materialized into merchandise which will be worn and used by a lot of people. Meeting with people with a lot of different ideas while coming up with even better ideas working as a team.
+Worst part - when sometimes things don’t go right and you have to compromise on ideas and publish or manage with unfinished and unsatisfactory work which will be seen by everyone as well.”
+-Aditya Gourishetty&lt;/p&gt;
+
+&lt;p&gt;“Best part: We had a lot of online collaborations and sponsor incentive ideas. We were able to attract a good number of participants. The submission evaluation and fair judging policies
+Worst:We did not have the plan for the D-Day ready in advance. We should have worked on it from the start. Online publicity + outreach: we should have started applications earlier, done more publicity.&lt;/p&gt;
+
+&lt;p&gt;Closing on logistics: The goodies logistics should have been planned before the event even happened. Pushing it to post event delayed a lot of things and caused unexpected issues.”
+-K Rahul Reddy&lt;/p&gt;
+
+&lt;p&gt;“The best part is the amazing feedback we’ve received from our participants regarding the event.”
+-Madhumitha Nara&lt;/p&gt;
+
+&lt;h2 id=&quot;and-finally-lets-ask-them-if-they-have-any-last-words-for-us&quot;&gt;And finally, let’s ask them if they have any last words for us!&lt;/h2&gt;
+
+&lt;p&gt;“There is no real hierarchy within the heads, we all tried maintaining things that way. But some decisions have to come from some team heads. Make sure everyone is inclusive and included.”
+-K Rahul Reddy&lt;/p&gt;
+
+&lt;p&gt;“Just do it, apply, meet new people and learn new stuff.&lt;/p&gt;
+
+&lt;p&gt;Start well in advance, work regularly, the final day will be here before you know it.”
+-Vybhav Pai&lt;/p&gt;
+
+&lt;p&gt;“The unexpected second wave of Covid wrecked havoc on our plans by cutting off contact with our vendors, leading to an inability to procure our orders. Even after shop reopened, getting back on track was a task easier said than done. Picking up and continuing months-old conversations was even more troublesome than starting new negotiations. And to ensure the best experience for all participants, we needed to work out the finer details properly. We’d like to offer a thank you for your patience and understanding thus far, and please rest assured that we will deliver on our promises as soon as possible!” -Team HackVerse&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>[&quot;Ramya Suresh Hegde&quot;]</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="hackverse2.0" />
+      
+
+      
+        <summary type="html">With the second edition of HackVerse, HackVerse 2.0, done and dusted for the year, it’s time to look back on the event and reminisce on all the good and bad experiences.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">HackVerse Tracks and Sample Solutions</title>
+      <link href="/blog/hackverse-tracks" rel="alternate" type="text/html" title="HackVerse Tracks and Sample Solutions" />
+      <published>2021-02-27T00:00:00+00:00</published>
+      <updated>2021-02-27T00:00:00+00:00</updated>
+      <id>/blog/hackverse-tracks</id>
+      <content type="html" xml:base="/blog/hackverse-tracks">&lt;p&gt;The HackVerse 2.0 mascot, Cody will be briefing you on the tracks of HackVerse.&lt;/p&gt;
+
+&lt;p&gt;Greetings, skipper! Welcome to the starboard of the HackVerse submarine! Today we shall be charting out the itinerary of your underwater voyage. You and your crewmates must use one of the following currents of the Arabian Sea to arrive at your destination.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/hackverse-tracks/1.jpg&quot; alt=&quot;nitk beach&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;track-1-lets-have-fun&quot;&gt;Track 1: Let’s Have Fun!&lt;/h2&gt;
+
+&lt;p&gt;Over the past few months, there’s been quite a bit of boredom &lt;em&gt;among us&lt;/em&gt;. The forces of gaming and coding must combine and speedrun through creating the ultimate entertainment application. Only then shall humanity be freed from the dungeons of dullness, and released into the land of leisure and excitement…&lt;/p&gt;
+
+&lt;p&gt;For this track, create or modify a piece of software dedicated to entertainment and fun. This would include things like building a new video game, reviving abandonware games by adding new features, and creating any fun application containing audio and/or video.&lt;/p&gt;
+
+&lt;p&gt;A rather ambitious instance of such a software would be an application which listens to a person singing, identifies the song, and plays the corresponding karaoke track matching the tempo of the singer in real time.&lt;/p&gt;
+
+&lt;h2 id=&quot;track-2-lets-connect&quot;&gt;Track 2: Let’s Connect!&lt;/h2&gt;
+
+&lt;p&gt;Staying connected online in the Era of the Lockdown has perhaps been the only thing keeping us going. Almost all forms of social interaction have been ported online, whether it’s Work From Home, online classes, or virtual freshers parties!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/hackverse-tracks/2.jpg&quot; alt=&quot;lets connect pawri meme&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Along this track, you’d be building a solution which acts as an online substitute for a conventionally offline social gathering or interaction.&lt;/p&gt;
+
+&lt;p&gt;A specimen of such a hack could be a dedicated alumni reunion application. Guess it’s about time I reconnected with my long-lost buccaneers from diving school!&lt;/p&gt;
+
+&lt;h2 id=&quot;track-3-lets-stay-fit&quot;&gt;Track 3: Let’s Stay Fit!&lt;/h2&gt;
+
+&lt;p&gt;Being a scuba diver, I must maintain my fitness at all times to explore the depths of the ocean. To keep a tab on my fitness levels, I’ve filled up my smart goggles to the brim with apps which monitor my daily activity.&lt;/p&gt;
+
+&lt;p&gt;If you choose to follow this track, you’d be creating a solution which shall help your fellow humans (and my fellow divers!) in maintaining their health.&lt;/p&gt;
+
+&lt;p&gt;An idea for a solution in this field could be an application which intelligently suggests a workout routine based on the health and fitness of the user. Gotta hustle for that muscle!&lt;/p&gt;
+
+&lt;h2 id=&quot;track-4-lets-go-contactless&quot;&gt;Track 4: Let’s Go Contactless!&lt;/h2&gt;
+
+&lt;p&gt;Before the pandemic, there were certain things which conventionally required human interaction. But thanks to the work of countless hackers across the globe, we now have contactless alternatives for dozens of things which required physical contact.&lt;/p&gt;
+
+&lt;p&gt;Drawing inspiration from this community, build a solution which embraces the idea of going contactless.&lt;/p&gt;
+
+&lt;p&gt;An instance for such a solution would be building a truly contactless biometric system, which replaces traditional fingerprint authentication. You could also perhaps build a contactless steering system for your submarine!&lt;/p&gt;
+
+&lt;h2 id=&quot;track-5-lets-stay-safe&quot;&gt;Track 5: Let’s Stay Safe!&lt;/h2&gt;
+
+&lt;p&gt;Defend your submarine against the Trojan Seahorse!&lt;/p&gt;
+
+&lt;p&gt;For this track, you’d be building a cybersecurity solution for securing a computer, server, electronic system, network, data, or similar from malicious attacks carried out by black hat seahorses.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/hackverse-tracks/3.jpg&quot; alt=&quot;hackerman meme&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;A possible solution in this domain would be to create a secure chat application. Sounds like unchartered territory? Check out &lt;a href=&quot;https://youtu.be/bQLutm4hS6w&quot;&gt;this&lt;/a&gt; Make With HackVerse tutorial to build one!&lt;/p&gt;
+
+&lt;h2 id=&quot;track-6-lets-innovate&quot;&gt;Track 6: Let’s Innovate!&lt;/h2&gt;
+
+&lt;p&gt;The mother of humankind’s most important abilities, innovation has impacted essentially all domains of our life, whether it’s pulling off emergency all-nighters under an LED bulb, conserving fossil fuels by using electric cars, or viewing this blog post on a smartphone!&lt;/p&gt;
+
+&lt;p&gt;This track represents the boundlessness of the ocean. The grounds (or *&lt;em&gt;cough&lt;/em&gt;* the seas) are open for innovation. Come up with any innovative hack that could make your everyday life easier.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/hackverse-tracks/4.jpg&quot; alt=&quot;bill gates meme&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Speaking of making life easier during the age of online classes, an instance of an innovative solution could perhaps be building an MS Teams Auto-Attender!&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>[&quot;manas&quot;, &quot;niraj&quot;]</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="hackverse2.0" />
+      
+
+      
+        <summary type="html">The HackVerse 2.0 mascot, Cody will be briefing you on the tracks of HackVerse.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">The Explorer’s Guide To HackVerse 2.0</title>
+      <link href="/blog/the-explorers-guide-to-hackverse-2" rel="alternate" type="text/html" title="The Explorer's Guide To HackVerse 2.0" />
+      <published>2021-02-03T01:00:00+00:00</published>
+      <updated>2021-02-03T01:00:00+00:00</updated>
+      <id>/blog/the-explorers-guide-to-hackverse-2</id>
+      <content type="html" xml:base="/blog/the-explorers-guide-to-hackverse-2">&lt;pre&gt;
+You have opened this message.
+
+Your mission, should you choose to accept it, is to navigate the treacherous waters
+of the Arabian sea until you get to the HackVerse 2.0 submarine.
+Once you’re in there, you’re safe.
+
+--- Message transmission terminated.
+&lt;/pre&gt;
+
+&lt;p&gt;The HackVerse 2.0 mascot, Cody will guide you on your journey.&lt;/p&gt;
+
+&lt;p&gt;Hello HackVerse aspirants!
+I’m Cody, your favourite underwater mascot and I’m here to help you out on your exciting underwater voyage, from the dock of registration to the starboard of results. Hold your breath…&lt;/p&gt;
+
+&lt;h3 id=&quot;checkpoint-1&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;CHECKPOINT 1:&lt;/code&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;the-dock-of-registration&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;THE DOCK OF REGISTRATION&lt;/code&gt;&lt;/h3&gt;
+
+&lt;p&gt; &lt;br /&gt;
+To participate, form a team of 2 to 3 people.
+Can’t find teammates? Don’t worry, you can still register individually, and find other participants who have also individually registered later on to team up with.&lt;/p&gt;
+
+&lt;p&gt;Each aspirant, whether a member of a team or not, has to fill in the application form.&lt;/p&gt;
+
+&lt;p&gt;READY OR NOT? DIVE IN!&lt;/p&gt;
+
+&lt;h3 id=&quot;checkpoint-2-&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;CHECKPOINT 2 :&lt;/code&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;get-acquainted-with-a-deep-sea-creature-the-application-form&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;GET ACQUAINTED WITH A DEEP SEA CREATURE, THE APPLICATION FORM&lt;/code&gt;&lt;/h3&gt;
+
+&lt;p&gt; &lt;br /&gt;
+Go to the &lt;a href=&quot;https://hackverse.nitk.ac.in/&quot;&gt;HackVerse Website&lt;/a&gt;, and click the ‘Apply with Devfolio’ button.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/explorers-guide-to-hackverse/website.jpg&quot; alt=&quot;HackVerse 2.0 website&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will then be directed to create an account/login on Devfolio.&lt;/p&gt;
+
+&lt;p&gt;Upon signing up/logging in, you will be directed to the HackVerse dashboard on Devfolio. Click ‘Continue to the application’ to go to the HackVerse application form. This application is what will be reviewed by the HackVerse team for the initial filtering of participants, so do fill it carefully!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/explorers-guide-to-hackverse/devfolio.jpg&quot; alt=&quot;Application Form&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are two sections of the application, one occupying the top half of the page, the other, the bottom. The first section pertains to the necessary paperwork - things required by us, from you, formally. There are five subsections in this section - About, Education, Experience, Links, and Contact. You can move to the next subsection only after completing the current subsection by clicking the ‘Next: &amp;lt;subsection&amp;gt;’ button. You can move back to a previous subsection any time by clicking the ‘Previous: &amp;lt;subsection&amp;gt;’ button.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/explorers-guide-to-hackverse/1.png&quot; alt=&quot;Application Step-1&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;checkpoint-3-&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;CHECKPOINT 3 :&lt;/code&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;youre-nearing-your-destination-flap-your-flippers-and-dive-deeper&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;YOU’RE NEARING YOUR DESTINATION! FLAP YOUR FLIPPERS AND DIVE DEEPER...&lt;/code&gt;&lt;/h3&gt;
+
+&lt;p&gt; &lt;br /&gt;
+Once you’ve completed the first section, move to the second section - the one where you give us an idea of your hacking expertise. Upon filling the fields in this section, tick the checkboxes at the bottom of the page to complete the application.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/explorers-guide-to-hackverse/2.png&quot; alt=&quot;Application Step-2&quot; /&gt;
+&lt;img src=&quot;assets/images/explorers-guide-to-hackverse/3.png&quot; alt=&quot;Application Step-3&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At this point, there are two roads to choose from:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;If you’re applying as a team, click the ‘Join or create team’ button. One of the team members would be required to create a team by providing a team name, and would then obtain a team code. The other team members would use this code to join the team.&lt;/li&gt;
+  &lt;li&gt;If you’re applying individually (and form a team with other individual participants later on), click the ‘Submit individual application’ button.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;assets/images/explorers-guide-to-hackverse/4.png&quot; alt=&quot;Application Step-4&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;AH! THERE IT IS! THE ELUSIVE SUBMARINE.&lt;/p&gt;
+
+&lt;pre&gt;--- You have successfully completed your mission. Wait for further instructions ---&lt;/pre&gt;
+
+&lt;h3 id=&quot;checkpoint-4-&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;CHECKPOINT 4 :&lt;/code&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;enjoy-the-view-from-the-starboard&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;ENJOY THE VIEW FROM THE STARBOARD!&lt;/code&gt;&lt;/h3&gt;
+
+&lt;p&gt; &lt;br /&gt;
+The procedure of filtering applications will begin in a couple of weeks after the applications start rolling in. If you’re shortlisted for the hackathon, you will receive an email stating the good news from Devfolio.&lt;/p&gt;
+
+&lt;p&gt;A few days before the hackathon, a Discord server will be created, where you and the other shortlisted participants will be added. Here is where the fun starts - workshops, talks from eminent industry experts, and other fascinating events. During these interactions, participants who have registered individually would be required to team up with other individual registrants.&lt;/p&gt;
+
+&lt;h3 id=&quot;checkpoint-5-&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;CHECKPOINT 5 :&lt;/code&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;date-27th-february-2021&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;DATE: 27TH FEBRUARY 2021&lt;/code&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;the-hackverse-20-submarine-is-loaded-and-ready-to-explore-the-unseen&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;THE HACKVERSE 2.0 SUBMARINE IS LOADED AND READY TO EXPLORE THE UNSEEN...&lt;/code&gt;&lt;/h3&gt;
+
+&lt;p&gt; &lt;br /&gt;
+You and your team will battle it out with the other teams in a race to create the most unique hack. Leaders in the industry will be among those present to judge each team’s submission. Submissions will be open to the community, for promoting the ideas of impartiality and fairness.&lt;/p&gt;
+
+&lt;h3 id=&quot;checkpoint-6-&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;CHECKPOINT 6 :&lt;/code&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;date-28th-february-2021&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;DATE: 28TH FEBRUARY 2021&lt;/code&gt;&lt;/h3&gt;
+
+&lt;h3 id=&quot;and-thus-the-last-unexplored-frontier-on-earth-was-conquered&quot;&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;..AND THUS, THE LAST UNEXPLORED FRONTIER ON EARTH WAS CONQUERED.&lt;/code&gt;&lt;/h3&gt;
+
+&lt;p&gt; &lt;br /&gt;
+Results will be announced a few days after the hackathon, followed by the Prize distribution ceremony and Hackerman felicitation.&lt;/p&gt;
+
+&lt;p&gt;Uncovering the secrets of the deep sea is no small task, and we hope that you will persevere until the end. Never stop dreaming; never stop exploring!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;IT’S TIME TO RISE TO THE SURFACE.&lt;/strong&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>[&quot;kriti&quot;, &quot;manas&quot;]</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="hackverse2.0" />
+      
+
+      
+        <summary type="html">You have opened this message.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>
